@@ -1,0 +1,3 @@
+timeout 10 'swaylock --screenshots --clock --indicator --effect-blur 20x20 --effect-vignette 1:1 --grace 2 --fade-in 2' 
+timeout 20 'hyprctl dispatch dpms off' resume "hyprctl dispatch dpms on"
+timeout 30 'systemctl hibernate'

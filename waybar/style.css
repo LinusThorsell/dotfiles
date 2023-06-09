@@ -1,5 +1,5 @@
 @define-color bg gray;
-@define-color fg white;
+@define-color fg #7affff;
 
 * {
   border: none;

@@ -1,5 +1,8 @@
+alsa-utils
 base
 base-devel
+bluez
+bluez-utils
 brightnessctl
 cmake
 dhcpcd
@@ -40,6 +43,7 @@ polkit-kde-agent
 pulseaudio
 python
 python-pip
+reflector
 ripgrep
 sbctl
 slurp

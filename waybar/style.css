@@ -1,0 +1,78 @@
+@define-color bg gray;
+@define-color fg white;
+
+* {
+  border: none;
+  color: @fg;
+}
+
+window#waybar {
+  background: transparent;
+}
+
+#workspaces {
+  /* background-color: @bg; */
+  border: 1px solid @fg;
+  border-radius: 20px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+#workspaces button {
+  border-radius: 20px;
+}
+#workspaces button.active {
+  border: 1px solid @fg;
+}
+/* #workspaces button:hover { */
+/*   background-color: lightgray; */
+/* } */
+
+.modules-center {
+  margin-top: 5px;
+}
+
+.modules-right {
+  /* background-color: @bg; */
+  /* border-radius: 15px; */
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+#clock {
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  /* background-color: @bg; */
+  color: @fg;
+  border: 1px solid @fg;
+  border-radius: 20px;
+}
+#pulseaudio {
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  /* background-color: @bg; */
+  color: @fg;
+  border: 1px solid @fg;
+  border-radius: 20px;
+}
+#backlight {
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  /* background-color: @bg; */
+  color: @fg;
+  border: 1px solid @fg;
+  border-radius: 20px;
+}
+#battery {
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  /* background-color: @bg; */
+  color: @fg;
+  border: 1px solid @fg;
+  border-radius: 20px;
+}

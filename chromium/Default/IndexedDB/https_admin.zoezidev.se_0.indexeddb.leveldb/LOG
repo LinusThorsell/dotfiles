@@ -1,0 +1,15 @@
+2023/07/27-11:27:08.730 1fde Reusing MANIFEST /home/linus/.config/chromium/Default/IndexedDB/https_admin.zoezidev.se_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/27-11:27:08.730 1fde Recovering log #4
+2023/07/27-11:27:08.731 1fde Reusing old log /home/linus/.config/chromium/Default/IndexedDB/https_admin.zoezidev.se_0.indexeddb.leveldb/000004.log 
+2023/07/27-11:28:57.427 1fde Level-0 table #8: started
+2023/07/27-11:28:57.428 1fde Level-0 table #8: 14957 bytes OK
+2023/07/27-11:28:57.430 1fde Delete type=0 #4
+2023/07/27-11:28:57.430 1fde Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/07/27-11:28:57.430 1fde Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01"\x04\x02\x01\x04\x00j\x00i\x00r\x00a\x03\x00\xc0\x9c\xc6j\x99xB\x00\x01$\x009\x006\x003\x009\x006\x001\x00a\x006\x00-\x009\x00a\x009\x009\x00-\x004\x005\x00a\x005\x00-\x00a\x007\x006\x009\x00-\x006\x007\x006\x00b\x00f\x008\x007\x003\x00b\x007\x00f\x000' @ 758 : 1
+2023/07/27-11:28:57.430 1fde Compacting 1@1 + 1@2 files
+2023/07/27-11:28:57.432 1fde Generated table #9@1: 77 keys, 3252 bytes
+2023/07/27-11:28:57.432 1fde Compacted 1@1 + 1@2 files => 3252 bytes
+2023/07/27-11:28:57.434 1fde compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/27-11:28:57.434 1fde Delete type=2 #5
+2023/07/27-11:28:57.434 1fde Delete type=2 #8
+2023/07/27-11:28:57.434 1fde Manual compaction at level-1 from '\x00\x01\x01"\x04\x02\x01\x04\x00j\x00i\x00r\x00a\x03\x00\xc0\x9c\xc6j\x99xB\x00\x01$\x009\x006\x003\x009\x006\x001\x00a\x006\x00-\x009\x00a\x009\x009\x00-\x004\x005\x00a\x005\x00-\x00a\x007\x006\x009\x00-\x006\x007\x006\x00b\x00f\x008\x007\x003\x00b\x007\x00f\x000' @ 758 : 1 .. (end); will stop at (end)

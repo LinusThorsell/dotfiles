@@ -1,0 +1,3 @@
+2023-07-12 12:10:14.129 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-07-12 12:10:14.683 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2023-07-12 12:10:17.556 [info] [perf] Render performance baseline is 30ms

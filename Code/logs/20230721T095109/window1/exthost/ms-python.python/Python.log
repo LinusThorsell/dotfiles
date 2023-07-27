@@ -1,0 +1,26 @@
+2023-07-21 09:51:26.912 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-07-21 09:51:26.912 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-07-21 09:51:26.912 [info] Experiment 'pythonSurveyNotification' is active
+2023-07-21 09:51:26.912 [info] Experiment 'pythonTestAdapter' is active
+2023-07-21 09:51:26.913 [info] Test server listening.
+2023-07-21 09:51:26.968 [info] Python interpreter path: /run/current-system/sw/bin/python
+2023-07-21 09:51:28.160 [info] Starting Pylance language server.
+2023-07-21 09:51:36.376 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 09:57:23.133 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 10:03:22.315 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 10:05:28.910 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 10:08:43.973 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 10:40:52.777 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 10:42:29.079 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 10:43:04.864 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 10:45:14.655 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 10:52:26.242 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 10:56:33.184 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 10:57:01.450 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 10:58:41.158 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 11:02:02.508 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 11:02:15.103 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 11:04:12.317 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 11:04:28.226 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 11:12:25.807 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-21 11:12:37.388 [info] Connecting to DAP Server at:  localhost:5678

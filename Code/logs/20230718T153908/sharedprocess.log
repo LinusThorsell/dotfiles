@@ -1,0 +1,7 @@
+2023-07-18 15:39:09.914 [info] Deleted from disk ms-python.vscode-pylance /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.10
+2023-07-18 15:39:09.914 [info] Deleted from disk vue.volar /home/linus/.vscode/extensions/vue.volar-1.8.4
+2023-07-18 15:40:53.563 [error] [uncaught exception in sharedProcess]: A system error occurred (read ECONNRESET): Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-07-18 15:43:39.663 [error] [uncaught exception in sharedProcess]: A system error occurred (read ECONNRESET): Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-07-18 19:39:53.530 [warning] No ptyHost heartbeat after 6 seconds

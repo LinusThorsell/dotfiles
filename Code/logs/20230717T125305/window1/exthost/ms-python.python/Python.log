@@ -1,0 +1,9 @@
+2023-07-17 12:53:20.801 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-07-17 12:53:20.801 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-07-17 12:53:20.801 [info] Experiment 'pythonSurveyNotification' is active
+2023-07-17 12:53:20.801 [info] Experiment 'pythonTestAdapter' is active
+2023-07-17 12:53:20.801 [info] Test server listening.
+2023-07-17 12:53:20.809 [info] Python interpreter path: /run/current-system/sw/bin/python
+2023-07-17 12:53:21.966 [info] Starting Pylance language server.
+2023-07-17 13:00:32.607 [info] Connecting to DAP Server at:  localhost:5678
+2023-07-17 13:06:02.647 [info] Connecting to DAP Server at:  localhost:5678

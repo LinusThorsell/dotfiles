@@ -1,0 +1,55 @@
+2023-07-06 17:24:38.801 [info] Extension host with pid 2608103 started
+2023-07-06 17:24:38.801 [info] Skipping acquiring lock for /home/linus/.config/Code/User/workspaceStorage/9422da54f0b6878f4e090a654fc4c75b.
+2023-07-06 17:24:39.217 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:plaintext'
+2023-07-06 17:24:39.267 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-06 17:24:39.272 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-07-06 17:24:39.894 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-06 17:24:39.896 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: true, activationEvent: '*'
+2023-07-06 17:24:39.898 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-07-06 17:24:39.947 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-06 17:24:39.965 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-06 17:24:40.066 [info] Eager extensions activated
+2023-07-06 17:24:40.081 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-06 17:24:40.084 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-06 17:24:40.437 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-07-06 17:24:40.480 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-07-06 17:24:42.733 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-07-06 17:25:44.389 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-07-06 17:25:44.392 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-07-06 17:25:44.408 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-07-06 17:26:00.796 [info] Extension host terminating: renderer closed the MessagePort
+2023-07-06 17:26:00.812 [error] Canceled: Canceled
+	at new l (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:104563)
+	at a.O (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:11657)
+	at H.<computed>.V.charCodeAt.H.<computed> (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:110:8947)
+	at e.ExtHostCommands.g (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124729)
+	at e.ExtHostCommands.executeCommand (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at C.registerCommand.description (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:123398)
+	at e.ExtHostCommands.h (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:125315)
+	at e.ExtHostCommands.g (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124205)
+	at e.ExtHostCommands.executeCommand (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:98:124105)
+	at Object.executeCommand (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:24043)
+	at D (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/extensions/git/dist/main.js:2:1259661)
+	at v.invoke (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:145)
+	at h.deliver (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:2121)
+	at i.fire (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:63:1729)
+	at Object.m [as dispose] (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/extensions/git/dist/main.js:2:1274494)
+	at /nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/extensions/git/dist/main.js:2:1278940
+	at Array.forEach (<anonymous>)
+	at g.dispose (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/extensions/git/dist/main.js:2:1278926)
+	at t.<anonymous> (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:12369)
+	at t.dispose (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:12504)
+	at t.<anonymous> (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/extensions/git/dist/main.js:2:1261791)
+	at t.dispose (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:96:12504)
+	at T (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:12080)
+	at v.Y (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:11173)
+	at /nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9157
+	at Array.map (<anonymous>)
+	at v.R (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9144)
+	at v.terminate (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:9415)
+	at d.terminate (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:1544)
+	at g (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:34439)
+	at MessagePortMain.<anonymous> (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:126:30578)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367) setContext undefined
+2023-07-06 17:26:00.823 [info] Extension host with pid 2608103 exiting with code 0

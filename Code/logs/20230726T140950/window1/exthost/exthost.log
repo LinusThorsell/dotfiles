@@ -1,0 +1,17 @@
+2023-07-26 14:09:51.737 [info] Extension host with pid 3034231 started
+2023-07-26 14:09:51.737 [info] Skipping acquiring lock for /home/linus/.config/Code/User/workspaceStorage/9422da54f0b6878f4e090a654fc4c75b.
+2023-07-26 14:09:52.229 [info] ExtensionService#_doActivateExtension Vue.volar, startup: false, activationEvent: 'onLanguage:plaintext'
+2023-07-26 14:09:52.252 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-07-26 14:09:52.258 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2023-07-26 14:09:52.647 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2023-07-26 14:09:52.919 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-07-26 14:09:52.929 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: true, activationEvent: '*'
+2023-07-26 14:09:52.933 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-07-26 14:09:53.033 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-07-26 14:09:53.062 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-07-26 14:09:53.180 [info] Eager extensions activated
+2023-07-26 14:09:53.194 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-07-26 14:09:53.197 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-07-26 14:09:53.901 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-07-26 14:09:53.933 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-07-26 14:10:03.659 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'

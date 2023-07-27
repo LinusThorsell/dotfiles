@@ -1,0 +1,17 @@
+2023-07-17 12:53:06.345 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-07-17 12:53:06.979 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2023-07-17 12:53:09.956 [info] [perf] Render performance baseline is 32ms
+2023-07-17 12:53:17.555 [error] Error: The editor could not be opened because the file was not found.
+    at lu.cc (vscode-file://vscode-app/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2285:93538)
+    at async lu.setInput (vscode-file://vscode-app/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2285:92524)
+    at async e.EditorPanes.M (vscode-file://vscode-app/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2283:23399)
+    at async e.EditorPanes.D (vscode-file://vscode-app/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2283:21994)
+    at async e.EditorPanes.openEditor (vscode-file://vscode-app/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2283:20897)
+    at async vscode-file://vscode-app/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2462:13516
+2023-07-17 12:53:18.518 [error] Error: The editor could not be opened because the file was not found.
+    at lu.cc (vscode-file://vscode-app/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2285:93538)
+    at async lu.setInput (vscode-file://vscode-app/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2285:92524)
+    at async e.EditorPanes.M (vscode-file://vscode-app/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2283:23399)
+    at async e.EditorPanes.D (vscode-file://vscode-app/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2283:21994)
+    at async e.EditorPanes.openEditor (vscode-file://vscode-app/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2283:20897)
+    at async vscode-file://vscode-app/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:2462:13516

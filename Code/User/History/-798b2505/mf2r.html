@@ -1,0 +1,20 @@
+<style type="text/css">
+</style>
+
+<div class="modal-header">
+	<button type="button" class="close" data-dismiss="modal" aria-hidden="true" ng-click="$dismiss()">&times;</button>
+	<h3 class="modal-title">{{'Could not create booking' | translate}}</h3>
+</div>
+<div class="modal-body">
+	<div class="alert">
+		<p ng-if="!availableViaCourses()" ng-bind-html="('Passet som du försöker boka tillåter inte bokningar med träningskort eller engångskort. Du kan ändra detta genom att ändra inställningarna av passets aktivitetstyp.' | translate)" />
+		<p ng-if="availableViaCourses()" ng-bind-html="('Passet som du försöker boka tillåter inte bokningar med träningskort eller engångskort. Det tillåter endast bokningar via kurser, du kan boka passet genom att boka en av kurserna som innehåller passet nedan. Du kan ändra detta genom att ändra inställningarna av passets aktivitetstyp.' | translate)" />
+	</div>
+
+	<div ng-include src="'views/form.html'"></div>
+
+	<div class="modal-footer">
+		<button type="button" class="btn btn-default" data-dismiss="modal" ng-click="openActivityTypeSettings()">{{'Ändra Aktivitetstypens inställningar' | translate}}</button>
+		<button type="button" class="btn btn-default" data-dismiss="modal" ng-click="$dismiss()">{{'Close' | translate}}</button>
+	</div>
+</div>

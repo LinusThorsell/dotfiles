@@ -1,0 +1,6 @@
+2023/07/17-13:51:11.909 aa27 Creating DB /home/linus/.config/chromium/Default/IndexedDB/https_developer.mozilla.org_0.indexeddb.leveldb since it was missing.
+2023/07/17-13:51:11.912 aa27 Reusing MANIFEST /home/linus/.config/chromium/Default/IndexedDB/https_developer.mozilla.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/17-14:40:36.651 aa28 Level-0 table #5: started
+2023/07/17-14:40:36.653 aa28 Level-0 table #5: 42354 bytes OK
+2023/07/17-14:40:36.655 aa28 Delete type=0 #3
+2023/07/17-14:40:36.655 aa28 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

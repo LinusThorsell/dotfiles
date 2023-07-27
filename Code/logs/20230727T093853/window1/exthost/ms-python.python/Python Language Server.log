@@ -1,0 +1,70 @@
+2023-07-27 10:35:53.059 [info] [Info  - 10:35:53 AM] (317615) Pylance language server 2023.7.30 (pyright 74d8f3c4) starting
+2023-07-27 10:35:53.060 [info] [Info  - 10:35:53 AM] (317615) Server root directory: /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.30/dist
+2023-07-27 10:35:53.060 [info] [Info  - 10:35:53 AM] (317615) Starting service instance "gymsystem"
+2023-07-27 10:35:53.103 [info] [Info  - 10:35:53 AM] (317615) Setting pythonPath for service "gymsystem": "/run/current-system/sw/bin/python"
+2023-07-27 10:35:53.108 [info] [Warn  - 10:35:53 AM] (317615) stubPath /backend/services/api/src is not a valid directory.
+2023-07-27 10:35:53.140 [info] [Info  - 10:35:53 AM] (317615) Assuming Python version 3.10
+2023-07-27 10:35:53.716 [info] [Info  - 10:35:53 AM] (317615) Found 631 source files
+2023-07-27 10:35:55.364 [info] [Info  - 10:35:55 AM] (317615) Background analysis(1) root directory: /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.30/dist
+2023-07-27 10:35:55.367 [info] [Info  - 10:35:55 AM] (317615) Background analysis(1) started
+2023-07-27 10:35:55.368 [info] [Info  - 10:35:55 AM] (317615) Indexer background runner(2) root directory: /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.30/dist (index)
+2023-07-27 10:35:55.368 [info] [Info  - 10:35:55 AM] (317615) Indexing(2) started
+2023-07-27 10:35:55.368 [info] [Info  - 10:35:55 AM] (317615) scanned(2) 12 files over 1 exec env
+2023-07-27 10:35:55.374 [info] [Info  - 10:35:55 AM] (317615) indexed(2) 1 files over 1 exec env
+2023-07-27 10:35:55.375 [info] [Info  - 10:35:55 AM] (317615) Indexing finished(2).
+2023-07-27 10:36:05.699 [info] [Info  - 10:36:05 AM] (317615) [BG(1)] Long operation: getSemanticTokens full at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (11010ms)
+2023-07-27 10:39:06.088 [info] [Info  - 10:39:06 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690446955639 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (8028ms)
+2023-07-27 10:39:19.123 [info] [Info  - 10:39:19 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447138059 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (9223ms)
+2023-07-27 10:39:29.333 [info] [Info  - 10:39:29 AM] (317615) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (6860ms)
+2023-07-27 10:39:29.333 [info] [Info  - 10:39:29 AM] (317615) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (7101ms)
+2023-07-27 10:39:55.155 [info] [Info  - 10:39:55 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447169334 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (8164ms)
+2023-07-27 10:40:01.847 [info] [Info  - 10:40:01 AM] (317615) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (5476ms)
+2023-07-27 10:40:01.847 [info] [Info  - 10:40:01 AM] (317615) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (5703ms)
+2023-07-27 10:40:04.407 [info] [Info  - 10:40:04 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447187266 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (2447ms)
+2023-07-27 10:40:15.454 [info] [Info  - 10:40:15 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447201614 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (8448ms)
+2023-07-27 10:40:21.427 [info] [Info  - 10:40:21 AM] (317615) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (5687ms)
+2023-07-27 10:40:21.427 [info] [Info  - 10:40:21 AM] (317615) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (5687ms)
+2023-07-27 10:40:23.600 [info] [Info  - 10:40:23 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447207278 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (2168ms)
+2023-07-27 10:41:04.552 [info] [Info  - 10:41:04 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447231871 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (3538ms)
+2023-07-27 10:41:13.139 [info] [Info  - 10:41:13 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447261013 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (6334ms)
+2023-07-27 10:42:14.065 [info] [Info  - 10:42:14 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447303144 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (7830ms)
+2023-07-27 10:42:20.768 [info] [Info  - 10:42:20 AM] (317615) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (5399ms)
+2023-07-27 10:42:20.768 [info] [Info  - 10:42:20 AM] (317615) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (5399ms)
+2023-07-27 10:42:36.439 [info] [Info  - 10:42:36 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447340769 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (6662ms)
+2023-07-27 10:42:43.756 [info] [Info  - 10:42:43 AM] (317615) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (5321ms)
+2023-07-27 10:42:43.756 [info] [Info  - 10:42:43 AM] (317615) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (5321ms)
+2023-07-27 10:42:56.504 [info] [Info  - 10:42:56 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447363761 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (7026ms)
+2023-07-27 10:43:06.381 [info] [Info  - 10:43:06 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447369477 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (7173ms)
+2023-07-27 10:43:28.540 [info] [Info  - 10:43:28 AM] (317615) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (2199ms)
+2023-07-27 10:43:28.540 [info] [Info  - 10:43:28 AM] (317615) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (2199ms)
+2023-07-27 10:43:38.582 [info] [Info  - 10:43:38 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447408541 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (7758ms)
+2023-07-27 10:45:48.169 [info] [Info  - 10:45:48 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447410824 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (10954ms)
+2023-07-27 10:46:03.720 [info] [Info  - 10:46:03 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447537215 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (10695ms)
+2023-07-27 10:46:13.710 [info] [Info  - 10:46:13 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447553024 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (6585ms)
+2023-07-27 10:46:20.618 [info] [Info  - 10:46:20 AM] (317615) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (5335ms)
+2023-07-27 10:46:20.619 [info] [Info  - 10:46:20 AM] (317615) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (5335ms)
+2023-07-27 10:46:41.171 [info] [Info  - 10:46:41 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447580619 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (6136ms)
+2023-07-27 10:46:46.799 [info] [Info  - 10:46:46 AM] (317615) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (3748ms)
+2023-07-27 10:46:46.799 [info] [Info  - 10:46:46 AM] (317615) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (3748ms)
+2023-07-27 10:46:52.477 [info] [Info  - 10:46:52 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447595035 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (5672ms)
+2023-07-27 10:47:17.332 [info] [Info  - 10:47:17 AM] (317615) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/api.py (2129ms)
+2023-07-27 10:47:17.332 [info] [Info  - 10:47:17 AM] (317615) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/api.py (2129ms)
+2023-07-27 10:47:23.732 [info] [Info  - 10:47:23 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447606804 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (6399ms)
+2023-07-27 10:48:03.785 [info] [Info  - 10:48:03 AM] (317615) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/api.py (3051ms)
+2023-07-27 10:48:03.785 [info] [Info  - 10:48:03 AM] (317615) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/api.py (3070ms)
+2023-07-27 10:48:03.785 [info] [Info  - 10:48:03 AM] (317615) Found 631 source files
+2023-07-27 10:48:07.836 [info] [Info  - 10:48:07 AM] (317615) Found 631 source files
+2023-07-27 10:48:15.507 [info] [Info  - 10:48:15 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447637332 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (12751ms)
+2023-07-27 10:48:18.053 [info] [Info  - 10:48:18 AM] (317615) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/api.py (2208ms)
+2023-07-27 10:48:18.053 [info] [Info  - 10:48:18 AM] (317615) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/api.py (2286ms)
+2023-07-27 10:48:25.399 [info] [Info  - 10:48:25 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447682755 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (6924ms)
+2023-07-27 10:49:08.535 [info] [Info  - 10:49:08 AM] (317615) [BG(1)] Long operation: getSemanticTokens delta previousResultId:1690447698475 at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (2113ms)
+2023-07-27 10:50:27.763 [info] [Info  - 10:50:27 AM] (317615) Found 630 source files
+2023-07-27 10:50:38.818 [info] [Info  - 10:50:38 AM] (317615) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (10434ms)
+2023-07-27 10:50:38.818 [info] [Info  - 10:50:38 AM] (317615) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (11002ms)
+2023-07-27 10:51:04.175 [info] [Info  - 10:51:04 AM] (317615) Found 629 source files
+2023-07-27 10:51:16.892 [info] [Info  - 10:51:16 AM] (317615) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (11750ms)
+2023-07-27 10:51:16.892 [info] [Info  - 10:51:16 AM] (317615) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (12668ms)
+2023-07-27 10:51:52.901 [info] [Info  - 10:51:52 AM] (317615) Found 630 source files
+2023-07-27 10:52:03.556 [info] [Info  - 10:52:03 AM] (317615) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (9740ms)
+2023-07-27 10:52:03.556 [info] [Info  - 10:52:03 AM] (317615) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (10597ms)

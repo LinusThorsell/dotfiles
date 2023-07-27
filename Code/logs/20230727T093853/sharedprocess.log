@@ -1,0 +1,5 @@
+2023-07-27 09:38:54.892 [info] Deleted from disk vue.volar /home/linus/.vscode/extensions/vue.volar-1.8.5
+2023-07-27 09:41:16.927 [error] [uncaught exception in sharedProcess]: A system error occurred (getaddrinfo ENOTFOUND mobile.events.data.microsoft.com): Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+2023-07-27 10:21:36.247 [error] [uncaught exception in sharedProcess]: A system error occurred (getaddrinfo ENOTFOUND mobile.events.data.microsoft.com): Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)

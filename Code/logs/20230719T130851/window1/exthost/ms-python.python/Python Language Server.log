@@ -1,0 +1,20 @@
+2023-07-19 13:08:54.879 [info] [Info  - 1:08:54 PM] (1913794) Pylance language server 2023.7.20 (pyright 74d8f3c4) starting
+2023-07-19 13:08:54.879 [info] [Info  - 1:08:54 PM] (1913794) Server root directory: /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.20/dist
+2023-07-19 13:08:54.882 [info] [Info  - 1:08:54 PM] (1913794) Starting service instance "gymsystem"
+2023-07-19 13:08:54.938 [info] [Info  - 1:08:54 PM] (1913794) Setting pythonPath for service "gymsystem": "/run/current-system/sw/bin/python"
+2023-07-19 13:08:54.953 [info] [Warn  - 1:08:54 PM] (1913794) stubPath /backend/services/api/src is not a valid directory.
+2023-07-19 13:08:54.988 [info] [Info  - 1:08:54 PM] (1913794) Assuming Python version 3.10
+2023-07-19 13:08:55.643 [info] [Info  - 1:08:55 PM] (1913794) Found 631 source files
+2023-07-19 13:08:55.677 [info] [Info  - 1:08:55 PM] (1913794) Background analysis(1) root directory: /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.20/dist
+2023-07-19 13:08:55.678 [info] [Info  - 1:08:55 PM] (1913794) Background analysis(1) started
+2023-07-19 13:08:57.456 [info] [Info  - 1:08:57 PM] (1913794) Indexer background runner(2) root directory: /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.20/dist (index)
+2023-07-19 13:08:57.456 [info] [Info  - 1:08:57 PM] (1913794) Indexing(2) started
+2023-07-19 13:08:57.457 [info] [Info  - 1:08:57 PM] (1913794) scanned(2) 12 files over 1 exec env
+2023-07-19 13:08:57.478 [info] [Info  - 1:08:57 PM] (1913794) indexed(2) 1 files over 1 exec env
+2023-07-19 13:08:57.479 [info] [Info  - 1:08:57 PM] (1913794) Indexing finished(2).
+2023-07-19 13:10:01.482 [info] [Info  - 1:10:01 PM] (1913794) Found 631 source files
+2023-07-19 13:10:52.667 [info] [Info  - 1:10:52 PM] (1913794) Found 631 source files
+2023-07-19 13:10:56.599 [info] [Info  - 1:10:56 PM] (1913794) Found 631 source files
+2023-07-19 13:11:48.959 [info] [Info  - 1:11:48 PM] (1913794) Found 630 source files
+2023-07-19 13:12:06.862 [info] [Info  - 1:12:06 PM] (1913794) Found 629 source files
+2023-07-19 13:12:50.969 [info] [Info  - 1:12:50 PM] (1913794) Found 630 source files

@@ -73,6 +73,8 @@ Plug 'AckslD/nvim-neoclip.lua'
 
 " Git integration "
 Plug 'akinsho/git-conflict.nvim'
+Plug 'mhinz/vim-signify'
+Plug 'rhysd/git-messenger.vim'
 
 " Formatting"
 Plug 'sbdchd/neoformat'
@@ -83,8 +85,14 @@ Plug 'windwp/nvim-autopairs'
 " Commenting "
 Plug 'tpope/vim-commentary'
 
-" my own pytest plugin "
-Plug '/home/linus/Documents/personal-projects/nvim-plugins/nvim-pytest'
+" Read only files with less hassle "
+Plug 'lambdalisue/suda.vim'
+
+" Bookmarks "
+Plug 'MattesGroeger/vim-bookmarks'
+
+" Bookmark extension for telescope "
+Plug 'tom-anders/telescope-vim-bookmarks.nvim'
 
 call plug#end()
 

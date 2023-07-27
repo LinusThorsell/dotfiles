@@ -1,0 +1,998 @@
+/* Override vuetify styles */
+/* Edit mode styles */
+:root {
+    --zoezi-edit-color: #3a7bb7 ;/*#673ab7*/
+    --zoezi-edit-text-color: white;
+
+    --z-default-background-color: #ffffff;
+
+    --z-default-transition: all 200ms ease-in-out;
+
+    --z-default-radius: 3px;
+    --z-default-shadow-small: 0 1px 3px  rgba(0,0,0,.2);
+    --z-default-shadow-large: 0 1px 3px  rgba(0,0,0,.2),
+                              0 3px 9px  rgba(0,0,0,.1),
+                              0 9px 27px rgba(0,0,0,.05);
+}
+@import url(general-list.css);
+
+.zoezi-page{
+    min-height: 90vh;
+    background-color: #fcfcff;
+}
+.theme--light.v-tabs-items {
+    background-color: #fcfcff !important;
+}
+.theme--light.v-expansion-panels .v-expansion-panel {
+    background-color: #fcfcff !important;
+}
+.z-page-logo{
+    max-width: 200px;
+    max-height: 100%;
+    width:auto;
+    height:auto;
+    object-fit: contain;
+    object-position: left center;
+}
+
+.no-elevation, .no-elevation::before{
+    border-radius:0;
+    box-shadow:none !important;
+}
+
+.v-toolbar .v-tabs .v-input {
+    margin-top: 12px !important;
+    padding-top: 4px !important;
+}
+
+.z-separator{border: none; margin-left:auto; margin-right:auto;}
+
+ul.hover-underline>li, 
+ol.hover-underline>li,
+li.hover-underline{
+    border-bottom:solid 1px transparent;
+    transition: border-color 200ms ease-in-out;
+}
+ul.hover-underline>li:hover, 
+ol.hover-underline>li:hover
+li.hover-underline:hover{
+    border-color: rgba(128,128,128,.2);
+}
+
+.zoezi-my-activities .v-expansion-panel-header{
+    padding: 10px;
+}
+.zoezi-my-activities .v-expansion-panel-content__wrap{
+    padding: 0 10px;
+}
+
+.zoezi-activity-section+.v-badge{margin: 1em 1.5em 0 0}
+
+.v-icon.white--text.mdi-close{
+    background:rgba(0,0,0,.4);
+    border-radius:50%;
+    box-shadow: 0 0 0 3px rgba(0,0,0,.2);
+}
+
+.zoezi-card-default{
+    background:var(--z-default-background-color);
+    border-radius: var(--z-default-radius);
+    box-shadow: var(--z-default-shadow-small);
+    transition: var(--z-default-transition);
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+}
+.zoezi-card-default.z-clickable:hover{
+    box-shadow: var(--z-default-shadow-large);
+}
+
+.zoezi-card-default .z-card-image{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color:rgba(0,0,0,.05);
+    position: relative;
+    flex-shrink:0;
+}
+.zoezi-card-default .z-card-image>div{
+    position:absolute;
+    left: 10%;
+    text-align: center;    
+    color:white;
+    width: 80%; height: 40%;
+    font-weight:400;
+    backdrop-filter: blur(10px);
+    background:rgba(0,0,0,.8);
+    text-shadow:0 1px 3px rgba(0,0,0,.5);
+    transition: var(--z-default-transition);
+    line-height: 1.5em;
+}
+.zoezi-card-default .z-card-image .z-card-image-time{
+    top: 10%;
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    font-size: 1.25em;
+    line-height: 3em;
+
+}
+.zoezi-card-default .z-card-image .z-card-image-small{
+    bottom: 10%;
+    border-bottom-left-radius: 200px;
+    border-bottom-right-radius: 200px;
+    font-size: 1em;
+}
+
+.zoezi-card-default:hover .z-card-image > div{
+    left:0;
+    width:100%;
+    height: 1em;
+    border-radius:0;
+    line-height: 1em;
+    background-color:rgba(0,0,0,.5) !important;
+    backdrop-filter: blur(0px);
+}
+.zoezi-card-default:hover .z-card-image > .z-card-image-time{
+    top:0;
+}
+.zoezi-card-default:hover .z-card-image > .z-card-image-small{
+    bottom:0;
+}
+.zoezi-card-default .z-card-content{
+    padding: 8px 10px;
+    flex-grow: 1;
+    white-space: nowrap;
+    overflow:hidden;
+    text-overflow: ellipsis;
+    font-size:.9em;
+}
+.zoezi-card-default .z-card-action{
+    text-align:right;
+    justify-self: flex-end;
+    word-break: break-all;
+}
+.zoezi-card-default .z-card-action .z-card-action-text{
+    font-size:.8em;
+    opacity:.8;
+    line-height:1em;
+    padding-top:.5em;
+    max-width: 80px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.zoezi-card-horizontal{
+    display:flex;
+}
+.zoezi-card-horizontal .z-card-image{
+    width: 100px;
+    height: 100px;
+}
+
+.pointer-lt:before,
+.pointer-lc:before,
+.pointer-lb:before,
+.pointer-rt:before,
+.pointer-rc:before,
+.pointer-rb:before{
+    content :'';
+    position:absolute;
+    border: solid 10px transparent;
+    border-top-width:7px;
+    border-bottom-width:7px;
+}
+.pointer-lb:before,
+.pointer-lc:before,
+.pointer-lt:before{
+    left:-20px;
+    bottom:10px;
+    border-right-width: 10px;
+    border-right-color:white;
+    transform:skewY(-22.5deg);
+}
+.pointer-lt:before{top: 10px; bottom:auto; transform:skewY(22.5deg);}
+.pointer-lc:before{bottom:50%; margin-bottom: -7px; transform:skewY(0);}
+
+.pointer-rt:before,
+.pointer-rc:before,
+.pointer-rb:before{
+    right:-20px;
+    bottom:10px;
+    border-left-width: 10px;
+    border-left-color:white;
+    transform:skewY(22.5deg);
+}
+.pointer-rt:before{top: 10px; bottom:auto;transform:skewY(-22.5deg);}
+.pointer-rc:before{bottom:50%; margin-bottom: -7px; transform:skewY(0);}
+
+@media(max-width: 359px){
+	.zoezi-card-default{
+		flex-wrap:wrap;
+	}
+	.zoezi-card-default .z-card-content{
+		flex-grow:0;
+		flex-basis: calc(100% - 100px);
+	}
+	.zoezi-card-default .z-card-action{
+		flex-grow:1;
+		flex-basis: 100%;
+	}
+
+	.zoezi-card-default .z-card-action button{
+		margin-bottom: 10px;
+	}
+	.zoezi-card-default .z-card-action .z-card-action-text{
+		text-align:center;
+		margin: -5px 0 10px;
+	}
+}
+
+@media(max-width:479px){
+	.zoezi-mypage{
+		margin: 0 -12px;
+	}
+
+	.zoezi-card-default .z-card-content{
+		font-size: 14px;
+		line-height: 1.25em;
+	}
+	.zoezi-card-default .z-card-content>strong{
+		font-size:15px;
+	}
+
+}
+.z-booking-dialog-header>.v-image{background-color:black;}
+.z-booking-dialog-header>.v-image.no-image{
+    background:#eee; 
+    background: linear-gradient(225deg, rgba(200,200,200,1) 0%, rgba(240,240,240,1) 100%);
+}
+.z-booking-dialog-header>.v-image>.v-image__image{
+    filter: blur(20px);
+    top: -20px;
+    left: -20px;
+    right: -20px;   
+    bottom: -20px;
+    width: auto;
+    height: auto;
+    opacity:.6;
+}
+
+.z-booking-dialog-header>.v-image .v-responsive__content{
+    text-shadow:0 1px 3px rgba(0,0,0,.5);
+    position:relative;
+}
+.z-booking-dialog-header>.v-image.no-image .v-responsive__content{
+    color:black;
+    text-shadow:0 1px 0 white;
+}
+@media(min-width:960px){
+    .z-booking-dialog-contents .z-booking-dialog-thumbnail{
+        margin-top:calc(-100% + 50px);
+        margin-bottom: 15px;
+        border:solid 3px white;
+        border-radius:3px;
+        box-shadow:var(--z-default-shadow-small);
+    }
+}
+.z-booking-dialog-contents .z-booking-dialog-thumbnail>.v-responsive__sizer{
+    padding-bottom:100% !important;
+}
+.v-btn.z-booking-dialog-close{
+    position:absolute;
+    right:0;
+    top:0;
+    opacity:.45;
+}
+
+
+.zoezi-page.editing .z-component{
+    outline: dashed 1px transparent;
+    outline-offset:0;
+}
+.zoezi-page.editing .z-component:hover{
+    outline: dashed 1px rgba(0,0,0,.2);
+    transition: outline 200ms ease-in-out;
+}
+
+.zoezi-page.editing .zoezi-edit-hover-component,
+.zoezi-page.editing .zoezi-edit-hover-component:hover{
+    outline: solid 1px var(--zoezi-edit-color);
+    outline-offset: 0;
+    box-shadow: inset 0 0 0 1px rgba(255,255,255,1), 
+                0 0 5px rgba(0,0,0,.4), 
+                0 0 10px rgba(0,0,0,.2), 
+                0 0 20px rgba(0,0,0,.1);
+}
+
+.zoezi-edit-color {
+    border-color: var(--zoezi-edit-color);
+    background-color: var(--zoezi-edit-color);
+    color: var(--zoezi-edit-text-color);
+    caret-color: var(--zoezi-edit-text-color);
+}
+
+.zoezi-edit-text-color {
+    color: var(--zoezi-edit-text-color) !important;
+}
+
+.v-btn:not(.v-btn--outlined).zoezi-edit-color {
+    color: var(--zoezi-edit-text-color) !important;
+}
+
+/* Helpers */
+.z-no-hover-button:focus::before {
+    opacity: 0 !important;
+}
+
+.z-no-hover-button:hover::before {
+    opacity: 0 !important;
+}
+
+.z-no-focus:focus:before {
+    opacity: 0 !important;
+}
+
+.z-no-arrows .v-slide-group__prev {
+    display: none !important;
+}
+
+.z-no-arrows .v-slide-group__next {
+    display: none !important;
+}
+
+[contenteditable]:focus {
+    outline: 0px solid transparent;
+}
+
+.z-spacy-cards .v-slide-group__content {
+    justify-content: space-evenly;
+}
+
+.z-clickable {
+    cursor: pointer;
+}
+
+.z-center-margin {
+    margin: auto;
+}
+
+.z-no-user-select {
+    user-select: none;
+}
+
+.fill-width {
+    width: 100%;
+}
+
+.z-allow-clicks {
+    pointer-events: all;
+}
+
+.z-disable-clicks {
+    pointer-events: none;
+}
+
+.z-1of8 {
+    flex: 0 0 12.5%;
+    max-width: 12.5%;
+}
+
+.z-6of8 {
+    flex: 0 0 75%;
+    max-width: 75%;
+}
+
+.z-half {
+    flex: 0 0 50%;
+    max-width: 50%;
+    width: 50%;
+}
+
+.z-rounded-border {
+    border: 1px solid #e6e6e6;
+    border-radius: 4px;
+}
+
+@media(max-width:959px) {
+    .z-mobile-negative-margins {
+        margin-left:-12px;
+        margin-right:-12px;
+    }
+}
+
+.z-contents {
+    display: contents;
+}
+
+.v-expansion-panels--accordion > .z-contents > .v-expansion-panel {
+    margin-top: 0;
+}
+
+.v-expansion-panels--accordion > .z-contents > .v-expansion-panel::after {
+    opacity: 1;
+}
+
+.z-max-500 {
+    max-width: 500px;
+}
+
+.z-bottom-fixed {
+    position:fixed;
+    bottom:0;
+    left:0;
+    right:0;
+    z-index: 2;
+}
+
+.z-no-x-scroll {
+    overflow-x: hidden;
+}
+
+.z-dense .v-expansion-panel-content__wrap {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+
+.text--shadow{
+    text-shadow:
+        0 1px 1px  rgba(0,0,0,.2),
+        0 2px 4px  rgba(0,0,0,.1),
+        0 4px 16px rgba(0,0,0,.05);
+}
+
+.text--shadow-large{
+    text-shadow:
+        0 1px 3px  rgba(0,0,0,.5),
+        0 3px 9px  rgba(0,0,0,.25),
+        0 9px 27px rgba(0,0,0,.125);
+}
+
+.z-fade-to-white,
+.z-fade-dark-bottom-left{
+    position:relative;
+    overflow:hidden;
+}
+
+.z-fade-dark-bottom-left:after,
+.z-fade-to-white:after {
+    pointer-events: none;
+    position: absolute;
+    content: ' ';
+    display:block;
+    margin:0; padding:0;
+    top:50%; left: 0; bottom:0; right:0;
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+}
+
+.z-fade-dark-bottom-left:after{
+    top:0;
+    background: linear-gradient(15deg, rgba(0,0,0,.8) 0%, rgba(0,0,0,0) 100%);
+}
+
+.z-fade-all:after{
+    top:0;
+}
+
+
+
+
+.zoezi-card.fade-out,
+.v-image.fade-out{
+    padding-bottom: 20px;
+}
+.zoezi-card.fade-out>*{
+    z-index: 1;
+    position:relative;
+}
+.zoezi-card.fade-out:after,
+.v-image.fade-out>.v-responsive__sizer:after{
+    content: '';
+    position:absolute;
+    left:-10px;
+    right:-10px;
+    bottom:-10px;
+    pointer-events:none;
+    height: 110px;
+    z-index:0;
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%);
+    border-bottom:solid 10px white;
+}
+.v-image.fade-out>.v-responsive__content{
+    z-index:2;
+}
+
+.z-small-font {
+    font-size: 12px;
+}
+
+.z-min-width-0 {
+    min-width: 0;
+}
+
+.v-dialog.z-overflow {
+    overflow: visible;
+}
+
+.v-card.z-disabled {
+    background-color: #e5e5e5;
+}
+
+.z-box-shadow {
+    box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2), 0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 1px 5px 0px rgba(0, 0, 0, 0.12)
+}
+
+.z-lazy-invisible {
+    opacity: 0;
+}
+
+.z-rounded-box {
+    border: 1px solid gray;
+    border-radius: 4px;
+}
+
+/* Components */
+.zoezi-vue-component-error {
+    height: 200px;
+    padding: 30px;
+    background-color: var(--zoezi-edit-color);
+    color: var(--zoezi-edit-text-color);
+}
+
+.zoezi-workout-dialog-title {
+    height: 270px;
+}
+
+.zoezi-html-default {
+    height: 200px;
+    padding: 30px;
+    background-color: var(--zoezi-edit-color);
+    color: var(--zoezi-edit-text-color);
+}
+
+.zoezi-empty{
+    background:rgba(255,255,255,.3) !important;
+    cursor:pointer;
+}
+.zoezi-empty:hover{
+    background:rgba(255,255,255,.7) !important;
+}
+
+.zoezi-empty-select-component {
+    max-height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    min-width: 440px
+}
+
+.zoezi-row-limit-width {
+    margin: auto !important;
+    max-width: 1200px !important;
+}
+
+.zoezi-page.editing .zoezi-rowlayout>.zoezi-add-rowlayout{
+	outline: none !important;
+}
+.zoezi-page.editing .zoezi-rowlayout>.zoezi-add-rowlayout .v-btn{
+    outline: none !important;
+	transform:scale(.25);
+}
+.zoezi-page.editing .zoezi-rowlayout>.zoezi-add-rowlayout .v-btn{
+	opacity: 0.1;
+}
+.zoezi-page.editing .zoezi-rowlayout>.zoezi-add-rowlayout:hover .v-btn{
+	opacity: 1;
+	transform:scale(1);
+}
+
+.zoezi-edit-component-wrapper {
+    position: relative;
+}
+.zoezi-edit-component-wrapper-bottom-button .v-btn{
+    outline: none !important;
+}
+.zoezi-edit-component-wrapper-bottom-button {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    pointer-events: none;
+    z-index: 2;
+}
+
+.zoezi-edit-font {
+    font-family: "Roboto";
+}
+
+.zoezi-login {
+    max-width: 440px;
+    margin: auto;
+}
+
+.zoezi-edit-menu-pages-list {
+    max-height: calc(100vh - 48px);
+    overflow-y: scroll;
+}
+
+.v-bottom-navigation .zoezi-empty {
+    height: unset !important;
+}
+
+/* Checkout */
+
+.zoezi-checkout-payment-method-image {
+    height: 50px;
+    width: 50px;
+}
+
+.zoezi-checkout-summary .v-expansion-panel-content__wrap {
+    padding: 0;
+}
+
+/* Datepicker */
+
+.zoezi-datepicker-day-outside-month {
+    opacity: 0.6;
+}
+
+.zoezi-datepicker-week .v-btn {
+    min-width: unset !important;
+}
+
+.zoezi-datepicker-week .v-btn__content {
+    font-weight: normal !important;
+}
+
+.zoezi-datepicker-day .v-btn {
+    min-width: unset !important;
+}
+
+.zoezi-datepicker-day .v-btn__content {
+    font-weight: normal !important;
+}
+
+
+/* Resourcebooking */
+
+/*.zoezi-resourcebooking-select-time-button.v-btn {
+    text-transform: none;
+    background-color: white;
+}
+
+.zoezi-resourcebooking-select-time-button .v-btn__content {
+    font-weight: normal !important;
+}*/
+
+.zoezi-resourcebooking-checkout-button.v-btn {
+    text-transform: none;
+    background-color: white;
+}
+
+.zoezi-resourcebooking-checkout-button .v-btn__content {
+    font-weight: normal !important;
+}
+
+.zoezi-resourcebooking-selected-slot:not(:last-child) {
+    border-bottom: 1px solid #e6e6e6;
+}
+
+.zoezi-resourcebooking-times-button {
+    width: 120px;
+}
+
+/* My Greeting */
+
+.zoezi-mygreeting {
+    position: relative;
+    min-height: 25vh;
+}
+
+.zoezi-mygreeting .greeting-image {
+    max-height: 25vh;
+    opacity: 0.5;
+}
+
+.zoezi-mygreeting .greeting-text {
+    font-size: 48px;
+    text-shadow: 0 1px 3px rgba(0,0,0,.6),
+    					 0 3px 9px rgba(0,0,0,.3),
+                         0 9px 27px rgba(0,0,0,.1);
+    font-weight: 300;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    text-align: center;
+    width: 100%;
+}
+
+.zoezi-mygreeting .v-image__image--cover {
+    filter: blur(5px);
+}
+
+/* My Coming Activities */
+
+.zoezi-mycomingactivities .v-tab {
+    letter-spacing: normal;
+    text-transform: unset;
+    font-weight: bold;
+}
+/*
+.zoezi-mycomingactivities .v-expansion-panel-header {
+    font-weight: bold;
+    padding: 0;
+}*/
+
+.zoezi-mycomingactivities .v-expansion-panel-content__wrap {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+/*.zoezi-mycomingactivities .v-expansion-panel-header span {
+    font-weight: normal;
+}*/
+
+/* My Page Buttons */
+
+.zoezi-mypagebuttons {
+    text-align: center;
+}
+
+.zoezi-mypagebuttons .logoutbutton {
+    color: red;
+}
+
+.zoezi-mypagebuttons .logoutbutton .v-icon {
+    color: red;
+}
+
+.zoezi-mypagebuttons .adjustbutton {
+    margin: 0 20px 0 20px;
+}
+
+.zoezi-mypage-list-item:first-child {
+    border-top: 1px solid #e6e6e6;
+}
+
+.zoezi-mypage-list-item {
+    border-bottom: 1px solid #e6e6e6;
+}
+
+/* News Compose */
+.zoezi-news-compose .header {
+    font-weight: bold;
+    margin: 8px;
+}
+
+.zoezi-news-compose .news-title {
+    margin-left: 2px;
+    color: rgba(0,0,0, 0.5);
+}
+
+.zoezi-collection-receipt .v-btn__content {
+  max-width: 100%;
+}
+.zoezi-collection-receipt .v-btn__content span {
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+/* Zoezi text editor */
+
+.zoezi-text-editor{
+    position: relative;
+}
+.zoezi-text-editor .menububble {
+    position: absolute;
+    display: flex;
+    z-index: 20;
+    background: rgba(255,255,255, 1);
+    border-radius: 5px;
+    padding: 0.3rem;
+    margin-bottom: 0.5rem;
+    transform: translateX(-50%);
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity .2s, visibility .2s;
+}
+
+.zoezi-text-editor .menububble.is-active {
+    opacity: 1;
+    visibility: visible;
+}
+ 
+.zoezi-text-editor .menububble__button {
+    display: inline-flex;
+    margin-right: 0.2rem;
+}
+
+.zoezi-text-editor .menububble__button:last-child {
+    margin-right: 0;
+}
+
+.zoezi-text-editor p.is-editor-empty:first-child::before {
+    content: attr(data-empty-text);
+    float: left;
+    color: #aaa;
+    pointer-events: none;
+    height: 0;
+    font-style: italic;
+}
+.zoezi-text-editor .menubar{
+    position:absolute;
+    top:100%;
+    max-width:100%;
+}
+
+.zoezi-text-editor .menubar.is-hidden {
+    visibility: hidden;
+    opacity: 0;
+}
+
+.zoezi-text-editor .menubar.is-focused {
+    visibility: visible;
+    opacity: 1;
+    transition: visibility 0.2s, opacity 0.2s;
+}
+
+.zoezi-text-editor .menubar .menubar__button{
+    margin-right: 2px;
+    padding:0 10px !important;
+    min-width: 0 !important;
+}
+
+.zoezi-text-editor .ProseMirror {
+    min-height: 300px;
+}
+
+/* Button */
+
+.zoezi-button-thin.v-btn {
+    text-transform: none;
+    letter-spacing: 0;
+}
+
+.zoezi-button-thin .v-btn__content {
+    font-weight: normal !important;
+}
+
+.zoezi-button-fill-space .v-btn__content {
+    justify-content: normal;
+}
+
+.zoezi-button-round .v-btn {
+    min-width: unset !important;
+}
+
+.zoezi-vue-code-setting-cm {
+    border: 1px solid gray;
+}
+
+.zoezi-vue-code-setting-cm .CodeMirror {
+    height: 600px;
+}
+
+.CodeMirror-lint-tooltip {
+    z-index: 9999 !important;
+}
+
+
+/* Done icon */
+
+.done-icon{
+	display:inline-block;
+	width: 1em; height:1em; 
+	margin:0; padding:0;
+	border: solid .1em currentcolor;
+	border-radius: 50%;
+	position:relative;
+	transform:rotate(0);
+	transition:all 500ms ease-in-out;
+}
+
+.done-icon:before, .done-icon:after{
+	position:absolute;
+	content:'';
+	display:block;
+	background:currentcolor;
+	transition:all 250ms ease-in-out;
+	border-radius:.05em;
+}
+
+.done-icon:before{
+	transform:rotate(90deg);
+	transform-origin:left bottom;
+	width: 0;
+	height: .1em;
+	left: .2em;
+	top: .05em;
+}
+
+.done-icon:after{
+	transform-origin:left bottom;
+	width: 0;
+	height: .1em;
+	left: .25em;
+	top: .45em;
+	transition-delay:0;
+}
+
+.done-icon.active{
+	border-right-color: transparent;
+	transform:rotate(-45deg);
+	animation: done-icon-pulse .5s;
+	animation-delay: 500ms;
+}
+
+.done-icon.active:before{
+	transform:rotate(90deg);
+	transform-origin:left bottom;
+
+	width: .4em;
+	height: .1em;
+	left: .2em;
+	top: .05em;
+	transition-delay:0;
+}
+
+.done-icon.active:after{
+	transform-origin:left bottom;
+	width: .8em;
+	height: .1em;
+	left: .22em;
+	top: .465em;
+	transition-delay: 250ms;
+}
+
+@keyframes done-icon-pulse {
+	0% {transform: rotate(-45deg) scale(1)}
+	40% {transform: rotate(-45deg) scale(1.1)}
+	80% {transform:rotate(-45deg) scale(.9)}
+	100% {transform:rotate(-45deg) scale(1)}
+}
+
+@media(min-width:600px) {
+.z-max-height-half-screen-desktop {
+    max-height: 50vh;
+}
+}
+
+.v-tab {
+    text-transform: none !important;
+}
+
+/*
+  Example: Set the z-fg-primarytext class to give anchor tags the primarytext color
+*/
+
+.v-application .primarytext--text a {
+    color: var(--z-primarytext);
+}
+
+.v-application .secondary--text a {
+    color: var(--z-secondary);
+}
+
+.v-application .accent--text a {
+    color: var(--z-accent);
+}
+
+.v-application .warning--text a {
+    color: var(--z-warning);
+}
+
+.v-application .info--text a {
+    color: var(--z-info);
+}
+
+.v-application .success--text a {
+    color: var(--z-success);
+}
+
+.v-application .error--text a {
+    color: var(--z-error);
+}
+
+.z-no-underline {
+    text-decoration: none;
+}

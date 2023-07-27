@@ -12,6 +12,22 @@
 
 :let mapleader = ","
 
+:command W SudaWrite
+
+" Telescope open bookmarks "
+:nnoremap <leader>b <Cmd>Telescope vim_bookmarks<CR>
+" Telescope remove bookmark "
+lua << END
+local bookmark_actions = require('telescope').extensions.vim_bookmarks.actions
+require('telescope').extensions.vim_bookmarks.all {
+    attach_mappings = function(_, map) 
+        map('dd', bookmark_actions.delete_selected_or_at_cursor)
+
+        return true
+    end
+}
+END
+
 " Remapping for saving files "
 :nnoremap <C-s> <Cmd>:w<CR>
 
@@ -20,6 +36,9 @@
 
 " Jump to implementation "
 :nnoremap <leader>[ <Cmd>:pop<CR>
+
+" GitMessenger "
+:nnoremap <leader>m <Cmd>:GitMessenger<CR>
 
 " Toggle Filetree "
 :nnoremap <leader>y <Cmd>NvimTreeToggle<CR>

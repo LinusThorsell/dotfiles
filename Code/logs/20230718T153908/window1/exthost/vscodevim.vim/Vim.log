@@ -1,0 +1,147 @@
+2023-07-18 15:39:11.414 [info] Configuration changed
+2023-07-18 15:39:11.661 [info] Configuration changed
+2023-07-18 15:39:11.805 [info] Configuration changed
+2023-07-18 15:39:12.077 [info] Configuration changed
+2023-07-18 15:39:22.276 [info] Searching for class User
+2023-07-18 15:40:11.782 [info] Searching for description
+2023-07-18 15:41:15.501 [info] Searching for migrate
+2023-07-18 15:41:31.012 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/admin/installation.py
+2023-07-18 15:41:36.655 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/admin/installation.py closed
+2023-07-18 15:41:36.660 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/admin/installation.py.git closed
+2023-07-18 15:41:36.678 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/utils/__init__.py
+2023-07-18 15:41:48.742 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/utils/__init__.py closed
+2023-07-18 15:41:48.742 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/utils/__init__.py.git closed
+2023-07-18 15:41:48.761 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/addon/schema.py
+2023-07-18 15:41:51.289 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/addon/schema.py closed
+2023-07-18 15:41:51.299 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/addon/schema.py.git closed
+2023-07-18 15:41:51.320 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/apn/schema.py
+2023-07-18 15:41:52.712 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/apn/schema.py closed
+2023-07-18 15:41:52.723 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/apn/schema.py.git closed
+2023-07-18 15:41:52.747 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/app/schema.py
+2023-07-18 15:41:56.172 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/app/schema.py closed
+2023-07-18 15:41:56.182 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/app/schema.py.git closed
+2023-07-18 15:41:56.205 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/chain/schema.py
+2023-07-18 15:41:57.242 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/chain/schema.py closed
+2023-07-18 15:41:57.254 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/chain/schema.py.git closed
+2023-07-18 15:41:57.279 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/core/schema.py
+2023-07-18 15:42:13.364 [info] Searching for zoezi
+2023-07-18 15:42:18.857 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/core/schema.py closed
+2023-07-18 15:42:18.868 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/core/schema.py.git closed
+2023-07-18 15:42:18.901 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/course/schema.py
+2023-07-18 15:42:21.781 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/course/schema.py closed
+2023-07-18 15:42:21.794 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/course/schema.py.git closed
+2023-07-18 15:42:21.812 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/dashboard/schema.py
+2023-07-18 15:42:23.865 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/dashboard/schema.py closed
+2023-07-18 15:42:23.874 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/dashboard/schema.py.git closed
+2023-07-18 15:42:23.896 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/db/__init__.py
+2023-07-18 15:42:24.726 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/db/__init__.py closed
+2023-07-18 15:42:24.735 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/db/__init__.py.git closed
+2023-07-18 15:42:24.759 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/db/db_api.py
+2023-07-18 15:42:26.460 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/db/db_api.py closed
+2023-07-18 15:42:26.470 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/db/db_api.py.git closed
+2023-07-18 15:42:26.505 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/db/migration.py
+2023-07-18 15:42:36.388 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/db/migration.py closed
+2023-07-18 15:42:36.402 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/db/migration.py.git closed
+2023-07-18 15:42:36.430 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/file/migration.py
+2023-07-18 15:42:40.847 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/file/migration.py closed
+2023-07-18 15:42:40.857 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/file/migration.py.git closed
+2023-07-18 15:42:40.884 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/homepage/schema.py
+2023-07-18 15:42:43.434 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/homepage/schema.py closed
+2023-07-18 15:42:43.443 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/homepage/schema.py.git closed
+2023-07-18 15:42:43.471 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/invite/schema.py
+2023-07-18 15:42:46.345 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/invite/schema.py closed
+2023-07-18 15:42:46.354 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/invite/schema.py.git closed
+2023-07-18 15:42:46.377 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/invoice/schema.py
+2023-07-18 15:42:47.577 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/invoice/schema.py closed
+2023-07-18 15:42:47.587 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/invoice/schema.py.git closed
+2023-07-18 15:42:47.611 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/lok/schema.py
+2023-07-18 15:42:48.933 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/lok/schema.py closed
+2023-07-18 15:42:48.941 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/lok/schema.py.git closed
+2023-07-18 15:42:48.972 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/loyaltypoints/schema.py
+2023-07-18 15:42:50.466 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/loyaltypoints/schema.py closed
+2023-07-18 15:42:50.483 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/loyaltypoints/schema.py.git closed
+2023-07-18 15:42:50.501 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/mailing/schema.py
+2023-07-18 15:42:55.664 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/mailing/schema.py closed
+2023-07-18 15:42:55.676 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/mailing/schema.py.git closed
+2023-07-18 15:42:55.705 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/metra/schema.py
+2023-07-18 15:42:57.623 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/metra/schema.py closed
+2023-07-18 15:42:57.632 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/metra/schema.py.git closed
+2023-07-18 15:42:57.655 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/payment/schema.py
+2023-07-18 15:42:58.838 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/payment/schema.py closed
+2023-07-18 15:42:58.846 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/payment/schema.py.git closed
+2023-07-18 15:42:58.864 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/payout/schema.py
+2023-07-18 15:43:00.531 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/payout/schema.py closed
+2023-07-18 15:43:00.540 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/payout/schema.py.git closed
+2023-07-18 15:43:00.569 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/printer/schema.py
+2023-07-18 15:43:02.366 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/printer/schema.py closed
+2023-07-18 15:43:02.376 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/printer/schema.py.git closed
+2023-07-18 15:43:02.401 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/product/category/schema.py
+2023-07-18 15:43:03.966 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/product/category/schema.py closed
+2023-07-18 15:43:03.975 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/product/category/schema.py.git closed
+2023-07-18 15:43:03.997 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/reports/schema.py
+2023-07-18 15:43:05.576 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/reports/schema.py closed
+2023-07-18 15:43:05.584 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/reports/schema.py.git closed
+2023-07-18 15:43:05.602 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/resource/schema.py
+2023-07-18 15:43:07.163 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/resource/schema.py closed
+2023-07-18 15:43:07.173 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/resource/schema.py.git closed
+2023-07-18 15:43:07.200 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/resourcebooking/migration.py
+2023-07-18 15:43:08.825 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/resourcebooking/migration.py closed
+2023-07-18 15:43:08.833 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/resourcebooking/migration.py.git closed
+2023-07-18 15:43:08.866 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/spar/migration.py
+2023-07-18 15:43:10.134 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/spar/migration.py closed
+2023-07-18 15:43:10.143 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/spar/migration.py.git closed
+2023-07-18 15:43:10.165 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/sync/schema.py
+2023-07-18 15:43:11.897 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/sync/schema.py closed
+2023-07-18 15:43:11.905 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/sync/schema.py.git closed
+2023-07-18 15:43:11.934 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/task/schema.py
+2023-07-18 15:43:14.137 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/task/schema.py closed
+2023-07-18 15:43:14.146 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/task/schema.py.git closed
+2023-07-18 15:43:14.166 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/teamsport/schema.py
+2023-07-18 15:43:17.840 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/teamsport/schema.py closed
+2023-07-18 15:43:17.849 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/teamsport/schema.py.git closed
+2023-07-18 15:43:17.867 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/terms/schema.py
+2023-07-18 15:43:18.851 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/terms/schema.py closed
+2023-07-18 15:43:18.862 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/terms/schema.py.git closed
+2023-07-18 15:43:18.882 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/transaction/schema.py
+2023-07-18 15:43:21.254 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/transaction/schema.py closed
+2023-07-18 15:43:21.263 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/transaction/schema.py.git closed
+2023-07-18 15:43:21.290 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/user/migration.py
+2023-07-18 15:43:37.406 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/user/migration.py closed
+2023-07-18 15:43:37.419 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/user/migration.py.git closed
+2023-07-18 15:43:37.449 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/usergroup/schema.py
+2023-07-18 15:43:44.587 [info] /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.20/dist/typeshed-fallback/stubs/SQLAlchemy/sqlalchemy/sql/sqltypes.pyi closed
+2023-07-18 15:43:44.713 [info] /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.20/dist/typeshed-fallback/stubs/SQLAlchemy/sqlalchemy/sql/schema.pyi closed
+2023-07-18 15:43:51.110 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py
+2023-07-18 15:44:00.177 [info] Searching for ensure
+2023-07-18 15:44:12.634 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/usergroup/schema.py closed
+2023-07-18 15:44:12.644 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/usergroup/schema.py.git closed
+2023-07-18 15:44:12.671 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/webhook/schema.py
+2023-07-18 15:44:15.501 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/webhook/schema.py closed
+2023-07-18 15:44:15.511 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/webhook/schema.py.git closed
+2023-07-18 15:44:15.534 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/webshop/schema.py
+2023-07-18 15:44:17.527 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/webshop/schema.py closed
+2023-07-18 15:44:17.537 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/webshop/schema.py.git closed
+2023-07-18 15:44:17.561 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/workout/reminder.py
+2023-07-18 15:44:19.232 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/workout/reminder.py closed
+2023-07-18 15:44:19.241 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/workout/reminder.py.git closed
+2023-07-18 15:44:19.260 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/zoeziapp/schema.py
+2023-07-18 15:44:34.545 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/zoeziapp/schema.py closed
+2023-07-18 15:44:34.556 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/zoeziapp/schema.py.git closed
+2023-07-18 15:44:34.575 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/api.py
+2023-07-18 15:44:39.201 [info] Searching for ensure
+2023-07-18 15:44:52.714 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/api.py closed
+2023-07-18 15:44:52.714 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/api.py.git closed
+2023-07-18 15:44:52.739 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/migrate.py
+2023-07-18 15:45:01.877 [info] Searching for user
+2023-07-18 15:45:25.180 [info] Searching for ensure
+2023-07-18 15:47:20.504 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/migrate.py closed
+2023-07-18 15:47:20.504 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/migrate.py.git closed
+2023-07-18 15:47:20.536 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/db/migration.py
+2023-07-18 15:47:29.659 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py
+2023-07-18 15:47:38.966 [info] Searching for class User
+2023-07-18 15:47:45.066 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/db/migration.py
+2023-07-18 15:47:47.695 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py
+2023-07-18 15:47:56.106 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/db/migration.py
+2023-07-18 15:47:58.024 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py
+2023-07-18 15:48:07.029 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/plug/db/migration.py
+2023-07-18 15:49:56.507 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py

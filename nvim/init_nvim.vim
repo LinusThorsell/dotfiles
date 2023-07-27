@@ -7,13 +7,18 @@ lua require'hop'.setup()
 
 lua require('neoclip').setup()
 :lua require('telescope').load_extension('neoclip')
+lua require('telescope').load_extension('vim_bookmarks')
 
 lua require('git-conflict').setup()
 
-lua require('nvim-autopairs').setup {}
+" lua require('nvim-autopairs').setup {}
+
+set updatetime=100
+
+let g:git_messenger_include_diff = 0
 
 lua << END
-vim.o.foldcolumn = '1' -- '0' is not bad
+-- vim.o.foldcolumn = '1' -- '0' is not bad
 vim.o.foldlevel = 99 -- Using ufo provider need a large value, feel free to decrease the value
 vim.o.foldlevelstart = 99
 vim.o.foldenable = true

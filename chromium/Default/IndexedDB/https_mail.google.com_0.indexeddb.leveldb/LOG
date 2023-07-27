@@ -1,0 +1,21 @@
+2023/07/27-11:04:17.558 1fde Reusing MANIFEST /home/linus/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/27-11:04:17.558 1fde Recovering log #62
+2023/07/27-11:04:17.563 1fde Reusing old log /home/linus/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000062.log 
+2023/07/27-11:04:32.908 1fdf Level-0 table #67: started
+2023/07/27-11:04:32.922 1fdf Level-0 table #67: 1946989 bytes OK
+2023/07/27-11:04:32.924 1fdf Delete type=0 #62
+2023/07/27-11:36:23.288 1fdf Compacting 1@1 + 1@2 files
+2023/07/27-11:36:23.296 1fdf Generated table #68@1: 225 keys, 351625 bytes
+2023/07/27-11:36:23.296 1fdf Compacted 1@1 + 1@2 files => 351625 bytes
+2023/07/27-11:36:23.298 1fdf compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/27-11:36:23.298 1fdf Delete type=2 #64
+2023/07/27-11:36:23.298 1fdf Delete type=2 #67
+2023/07/27-14:55:31.640 1fde Level-0 table #70: started
+2023/07/27-14:55:31.653 1fde Level-0 table #70: 1833872 bytes OK
+2023/07/27-14:55:31.656 1fde Delete type=0 #66
+2023/07/27-14:55:43.342 1fdf Compacting 1@1 + 1@2 files
+2023/07/27-14:55:43.348 1fdf Generated table #71@1: 192 keys, 302933 bytes
+2023/07/27-14:55:43.348 1fdf Compacted 1@1 + 1@2 files => 302933 bytes
+2023/07/27-14:55:43.350 1fdf compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/27-14:55:43.350 1fdf Delete type=2 #68
+2023/07/27-14:55:43.350 1fdf Delete type=2 #70

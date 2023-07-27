@@ -1,0 +1,25 @@
+2023-07-21 09:51:09.880 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-07-21 09:51:10.662 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2023-07-21 09:51:15.135 [info] [perf] Render performance baseline is 37ms
+2023-07-21 09:57:08.925 [error] Cannot read properties of undefined (reading 'data'): TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.20/dist/extension.bundle.js:1:62672
+	at _0x3b0595 (/home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.20/dist/extension.bundle.js:1:71932)
+	at async oe.provideCompletionItems (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:52890)
+2023-07-21 10:02:46.812 [error] Cannot read properties of undefined (reading 'data'): TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.20/dist/extension.bundle.js:1:62672
+	at _0x3b0595 (/home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.20/dist/extension.bundle.js:1:71932)
+	at async oe.provideCompletionItems (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:52890)
+2023-07-21 10:11:03.755 [error] Cannot read properties of undefined (reading 'data'): TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.20/dist/extension.bundle.js:1:62672
+	at _0x3b0595 (/home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.20/dist/extension.bundle.js:1:71932)
+	at async oe.provideCompletionItems (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:52890)
+2023-07-21 10:16:59.172 [error] Cannot read properties of undefined (reading 'data'): TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.20/dist/extension.bundle.js:1:62672
+	at _0x3b0595 (/home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.20/dist/extension.bundle.js:1:71932)
+	at async oe.provideCompletionItems (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:52890)
+2023-07-21 10:46:09.123 [error] spawn linux ENOENT: Error: spawn linux ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:497:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2023-07-21 10:59:13.480 [error] No expression to evaluate
+2023-07-21 10:59:47.610 [error] No expression to evaluate

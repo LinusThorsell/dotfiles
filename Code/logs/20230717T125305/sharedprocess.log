@@ -1,0 +1,19 @@
+2023-07-17 12:53:11.246 [info] Getting Manifest... ms-python.vscode-pylance
+2023-07-17 12:53:11.247 [info] Getting Manifest... vue.volar
+2023-07-17 12:53:11.293 [info] Installing extension: ms-python.vscode-pylance
+2023-07-17 12:53:11.309 [info] Installing extension: vue.volar
+2023-07-17 12:53:11.881 [warning] Extension signature verification failed with error 'EACCES': vue.volar
+2023-07-17 12:53:11.937 [info] Extracted extension to /home/linus/.vscode/extensions/.1ebc4c73-dc53-4a80-86a7-3f0b1ba9c0e8: vue.volar
+2023-07-17 12:53:11.941 [info] Renamed to /home/linus/.vscode/extensions/vue.volar-1.8.5
+2023-07-17 12:53:11.943 [info] Extracting extension completed. vue.volar
+2023-07-17 12:53:11.950 [info] Extension installed successfully: vue.volar
+2023-07-17 12:53:11.953 [info] Marked extension as uninstalled vue.volar-1.8.4
+2023-07-17 12:53:12.426 [info] Getting Manifest... ms-python.python
+2023-07-17 12:53:13.389 [warning] Extension signature verification failed with error 'EACCES': ms-python.vscode-pylance
+2023-07-17 12:53:15.650 [info] Extracted extension to /home/linus/.vscode/extensions/.a778cb8b-cd4d-4794-994d-8573f6720b46: ms-python.vscode-pylance
+2023-07-17 12:53:15.658 [info] Renamed to /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.20
+2023-07-17 12:53:15.660 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-07-17 12:53:15.665 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-07-17 12:53:15.669 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.7.10
+2023-07-17 12:54:35.440 [error] [uncaught exception in sharedProcess]: A system error occurred (read ECONNRESET): Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)

@@ -1,0 +1,4 @@
+2023-07-27 09:38:53.760 [info] update#setState idle
+2023-07-27 09:39:23.763 [info] update#setState checking for updates
+2023-07-27 09:39:23.768 [info] update#setState available for download
+2023-07-27 11:00:09.778 [error] [UtilityProcess type: shared-process, pid: 152478]: crashed with code 15 and reason 'killed'

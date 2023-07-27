@@ -1,0 +1,7 @@
+2023/07/15-11:47:18.136 8a85 Reusing MANIFEST /home/linus/.config/chromium/Default/IndexedDB/https_dashboard.stripe.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/15-11:47:18.136 8a85 Recovering log #3
+2023/07/15-11:47:18.136 8a85 Reusing old log /home/linus/.config/chromium/Default/IndexedDB/https_dashboard.stripe.com_0.indexeddb.leveldb/000003.log 
+2023/07/15-11:48:25.894 8a86 Level-0 table #5: started
+2023/07/15-11:48:25.896 8a86 Level-0 table #5: 2079 bytes OK
+2023/07/15-11:48:25.898 8a86 Delete type=0 #3
+2023/07/15-11:48:25.898 8a86 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

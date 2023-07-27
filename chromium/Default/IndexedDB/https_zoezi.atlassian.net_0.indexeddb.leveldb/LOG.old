@@ -1,0 +1,16 @@
+2023/07/27-11:04:16.721 1fde Reusing MANIFEST /home/linus/.config/chromium/Default/IndexedDB/https_zoezi.atlassian.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/27-11:04:16.721 1fde Recovering log #433
+2023/07/27-11:04:16.736 1fde Reusing old log /home/linus/.config/chromium/Default/IndexedDB/https_zoezi.atlassian.net_0.indexeddb.leveldb/000433.log 
+2023/07/27-11:04:21.060 1fdf Level-0 table #440: started
+2023/07/27-11:04:21.073 1fdf Level-0 table #440: 1922360 bytes OK
+2023/07/27-11:04:21.075 1fdf Delete type=0 #433
+2023/07/27-11:04:21.699 1fde Compacting 1@1 + 3@2 files
+2023/07/27-11:04:21.736 1fde Generated table #441@1: 30109 keys, 2206594 bytes
+2023/07/27-11:04:21.775 1fde Generated table #442@1: 31414 keys, 2213710 bytes
+2023/07/27-11:04:21.796 1fde Generated table #443@1: 15852 keys, 1168695 bytes
+2023/07/27-11:04:21.796 1fde Compacted 1@1 + 3@2 files => 5588999 bytes
+2023/07/27-11:04:21.798 1fde compacted to: files[ 0 0 3 0 0 0 0 ]
+2023/07/27-11:04:21.798 1fde Delete type=2 #436
+2023/07/27-11:04:21.798 1fde Delete type=2 #435
+2023/07/27-11:04:21.798 1fde Delete type=2 #437
+2023/07/27-11:04:21.798 1fde Delete type=2 #440

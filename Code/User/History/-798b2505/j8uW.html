@@ -1,0 +1,27 @@
+<style type="text/css">
+	.thankyou-for-downloading {
+		text-align: center;
+	}
+</style>
+
+<div class="modal-header">
+	<button type="button" class="close" data-dismiss="modal" aria-hidden="true" ng-click="$dismiss()">&times;</button>
+	<h3 class="modal-title">{{'Could not create booking' | translate}}</h3>
+</div>
+<div class="modal-body">
+	<div class="alert">
+		<p ng-bind-html="('Enligt de aktuella inställningarna kan detta pass inte bokas med träningskort eller engångskort.' | translate)" />
+	</div>
+
+	<div ng-if="!showThankyouMessage" ng-include src="'views/form.html'"></div>
+	
+	<div ng-if="showThankyouMessage" class="thankyou-for-downloading alert alert-success">
+		<span class="fa fa-check fa-4x"></span>
+		<strong><h2>{{ 'Thanks for downloading the Gymsystem app!' | translate }}</h2></strong>
+	</div>
+
+	<div class="modal-footer">
+		<button type="button" class="btn btn-default" data-dismiss="modal" ng-click="openActivityTypeSettings()">{{'Ändra Aktivitetstypens inställningar' | translate}}</button>
+		<button type="button" class="btn btn-default" data-dismiss="modal" ng-click="$dismiss()">{{'Avbryt' | translate}}</button>
+	</div>
+</div>

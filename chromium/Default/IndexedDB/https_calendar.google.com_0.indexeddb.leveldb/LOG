@@ -1,0 +1,15 @@
+2023/07/26-16:24:46.301 1a84 Reusing MANIFEST /home/linus/.config/chromium/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/26-16:24:46.301 1a84 Recovering log #11
+2023/07/26-16:24:46.302 1a84 Reusing old log /home/linus/.config/chromium/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000011.log 
+2023/07/26-16:24:49.463 1a84 Level-0 table #16: started
+2023/07/26-16:24:49.464 1a84 Level-0 table #16: 703 bytes OK
+2023/07/26-16:24:49.466 1a84 Delete type=0 #11
+2023/07/26-16:24:49.466 1a84 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/07/26-16:24:49.466 1a84 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x05\x00o\x00p\x00t\x00i\x00n' @ 272 : 1
+2023/07/26-16:24:49.466 1a84 Compacting 1@1 + 1@2 files
+2023/07/26-16:24:49.467 1a84 Generated table #17@1: 56 keys, 1078 bytes
+2023/07/26-16:24:49.467 1a84 Compacted 1@1 + 1@2 files => 1078 bytes
+2023/07/26-16:24:49.469 1a84 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/26-16:24:49.469 1a84 Delete type=2 #16
+2023/07/26-16:24:49.469 1a84 Delete type=2 #13
+2023/07/26-16:24:49.469 1a84 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x05\x00o\x00p\x00t\x00i\x00n' @ 272 : 1 .. (end); will stop at (end)

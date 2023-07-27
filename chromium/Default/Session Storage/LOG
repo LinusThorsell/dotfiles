@@ -1,0 +1,27 @@
+2023/07/27-11:04:15.281 3 Reusing MANIFEST /home/linus/.config/chromium/Default/Session Storage/MANIFEST-000001
+2023/07/27-11:04:15.281 3 Recovering log #129
+2023/07/27-11:04:15.282 3 Reusing old log /home/linus/.config/chromium/Default/Session Storage/000129.log 
+2023/07/27-11:24:27.657 6 Level-0 table #134: started
+2023/07/27-11:24:27.663 6 Level-0 table #134: 18056 bytes OK
+2023/07/27-11:24:27.665 6 Delete type=0 #129
+2023/07/27-11:36:30.581 5 Level-0 table #136: started
+2023/07/27-11:36:30.583 5 Level-0 table #136: 17118 bytes OK
+2023/07/27-11:36:30.585 5 Delete type=0 #133
+2023/07/27-11:46:19.213 5 Level-0 table #138: started
+2023/07/27-11:46:19.219 5 Level-0 table #138: 17548 bytes OK
+2023/07/27-11:46:19.221 5 Delete type=0 #135
+2023/07/27-13:26:17.520 5 Level-0 table #140: started
+2023/07/27-13:26:17.522 5 Level-0 table #140: 21026 bytes OK
+2023/07/27-13:26:17.524 5 Delete type=0 #137
+2023/07/27-13:26:17.525 5 Compacting 4@0 + 1@1 files
+2023/07/27-13:26:17.528 5 Generated table #141@0: 3265 keys, 87404 bytes
+2023/07/27-13:26:17.528 5 Compacted 4@0 + 1@1 files => 87404 bytes
+2023/07/27-13:26:17.530 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/27-13:26:17.530 5 Delete type=2 #136
+2023/07/27-13:26:17.530 5 Delete type=2 #140
+2023/07/27-13:26:17.530 5 Delete type=2 #134
+2023/07/27-13:26:17.530 5 Delete type=2 #131
+2023/07/27-13:26:17.530 5 Delete type=2 #138
+2023/07/27-14:20:26.366 5 Level-0 table #143: started
+2023/07/27-14:20:26.368 5 Level-0 table #143: 19196 bytes OK
+2023/07/27-14:20:26.371 5 Delete type=0 #139

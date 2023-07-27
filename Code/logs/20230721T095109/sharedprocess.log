@@ -1,0 +1,13 @@
+2023-07-21 09:51:16.584 [info] Getting Manifest... ms-python.vscode-pylance
+2023-07-21 09:51:16.629 [info] Installing extension: ms-python.vscode-pylance
+2023-07-21 09:51:17.639 [info] Getting Manifest... ms-python.python
+2023-07-21 09:51:18.427 [warning] Extension signature verification failed with error 'EACCES': ms-python.vscode-pylance
+2023-07-21 09:51:22.245 [info] Extracted extension to /home/linus/.vscode/extensions/.ce176dc7-689f-4beb-954b-93022feed008: ms-python.vscode-pylance
+2023-07-21 09:51:22.262 [info] Renamed to /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.30
+2023-07-21 09:51:22.265 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-07-21 09:51:22.274 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-07-21 09:51:22.278 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.7.20
+2023-07-21 09:52:13.270 [error] [uncaught exception in sharedProcess]: A system error occurred (read ECONNRESET): Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-07-21 09:52:59.586 [error] [uncaught exception in sharedProcess]: A system error occurred (read ECONNRESET): Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)

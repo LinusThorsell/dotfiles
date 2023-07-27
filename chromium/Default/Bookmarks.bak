@@ -1,0 +1,47 @@
+{
+   "checksum": "bd861a09691aa63593b057337c6adfa5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13333822769863035",
+            "date_last_used": "0",
+            "guid": "9f01a6ec-f526-45ac-a258-6e3a84c85ed8",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CSS Classes",
+            "type": "url",
+            "url": "https://primeflex.org/installation"
+         } ],
+         "date_added": "13333721589189229",
+         "date_last_used": "0",
+         "date_modified": "13333822769863035",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13333721589189231",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13333721589189232",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

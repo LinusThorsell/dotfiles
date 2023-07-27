@@ -1,0 +1,19 @@
+<style type="text/css">
+</style>
+
+<div class="modal-header">
+	<button type="button" class="close" data-dismiss="modal" aria-hidden="true" ng-click="$dismiss()">&times;</button>
+	<h3 class="modal-title">{{'Could not create booking' | translate}}</h3>
+</div>
+<div class="modal-body">
+	<div class="alert">
+		<p ng-bind-html="('(Enligt aktuella inställningarna denna pass går att boka endast via kurs(-er)) då bokning med (vissa) träningskort/engångsbiljetter är inte aktiverat för aktuella aktivitetstypen:.' | translate)" />
+	</div>
+
+	<div ng-include src="'views/form.html'"></div>
+
+	<div class="modal-footer">
+		<button type="button" class="btn btn-default" data-dismiss="modal" ng-click="openActivityTypeSettings()">{{'Ändra Aktivitetstypens inställningar' | translate}}</button>
+		<button type="button" class="btn btn-default" data-dismiss="modal" ng-click="$dismiss()">{{'Färdig' | translate}}</button>
+	</div>
+</div>

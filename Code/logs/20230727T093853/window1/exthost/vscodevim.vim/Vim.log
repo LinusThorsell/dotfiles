@@ -1,0 +1,65 @@
+2023-07-27 09:38:55.594 [info] Configuration changed
+2023-07-27 09:38:55.642 [info] Configuration changed
+2023-07-27 09:38:55.849 [info] Configuration changed
+2023-07-27 09:38:55.950 [info] Configuration changed
+2023-07-27 09:38:56.152 [info] Configuration changed
+2023-07-27 09:39:23.329 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/components/StaffList.vue
+2023-07-27 09:39:24.488 [info] /home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/components/StaffList.vue closed
+2023-07-27 09:39:24.488 [info] /home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/components/StaffList.vue.git closed
+2023-07-27 09:39:24.522 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/router.js
+2023-07-27 09:39:24.719 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/homepage/src/views/MyEntryStats.vue
+2023-07-27 09:39:25.557 [info] /home/linus/Documents/Zoezi/gymsystem/homepage/src/views/MyEntryStats.vue closed
+2023-07-27 09:39:25.558 [info] /home/linus/Documents/Zoezi/gymsystem/homepage/src/views/MyEntryStats.vue.git closed
+2023-07-27 09:39:25.565 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/router.js
+2023-07-27 09:39:27.096 [info] /home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/router.js closed
+2023-07-27 09:39:27.096 [info] /home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/router.js.git closed
+2023-07-27 09:39:27.112 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/homepage/src/views/MyPage.vue
+2023-07-27 09:39:27.285 [info] /home/linus/Documents/Zoezi/gymsystem/homepage/src/views/MyPage.vue closed
+2023-07-27 09:39:27.317 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/components/FavouriteButton.vue
+2023-07-27 09:39:27.602 [info] /home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/components/FavouriteButton.vue closed
+2023-07-27 09:39:27.603 [info] /home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/components/FavouriteButton.vue.git closed
+2023-07-27 09:39:27.622 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/service/UserService.ts
+2023-07-27 09:39:27.863 [info] Active editor: untitled:Untitled-1
+2023-07-27 09:39:29.195 [info] Untitled-1 closed
+2023-07-27 09:39:29.210 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/service/UserService.ts
+2023-07-27 09:39:30.517 [info] /home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/service/UserService.ts closed
+2023-07-27 09:39:30.518 [info] /home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/service/UserService.ts.git closed
+2023-07-27 09:39:30.532 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/service/StoreService.ts
+2023-07-27 09:39:31.619 [info] /home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/service/StoreService.ts closed
+2023-07-27 09:39:31.620 [info] /home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/service/StoreService.ts.git closed
+2023-07-27 09:39:31.704 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/frontend/src/client/scripts/app.js
+2023-07-27 09:39:32.542 [info] /home/linus/Documents/Zoezi/gymsystem/frontend/src/client/scripts/app.js closed
+2023-07-27 09:39:32.542 [info] /home/linus/Documents/Zoezi/gymsystem/frontend/src/client/scripts/app.js.git closed
+2023-07-27 09:39:42.134 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/frontend/src/client/scripts/app.js
+2023-07-27 09:39:55.575 [info] Searching for const force
+2023-07-27 10:09:10.761 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/pages/AllActivities.vue
+2023-07-27 10:21:27.521 [info] /home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/pages/AllActivities.vue closed
+2023-07-27 10:21:27.522 [info] /home/linus/Documents/Zoezi/gymsystem/frontend/staffnext/src/pages/AllActivities.vue.git closed
+2023-07-27 10:21:27.543 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/frontend/src/client/scripts/app.js
+2023-07-27 10:21:28.753 [info] /home/linus/Documents/Zoezi/gymsystem/frontend/src/client/scripts/app.js closed
+2023-07-27 10:21:28.753 [info] /home/linus/Documents/Zoezi/gymsystem/frontend/src/client/scripts/app.js.git closed
+2023-07-27 10:21:40.960 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/homepage/src/views/MyPage.vue
+2023-07-27 10:35:51.506 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py
+2023-07-27 10:40:21.425 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/api.py
+2023-07-27 10:40:29.888 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py
+2023-07-27 10:41:35.131 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/api.py
+2023-07-27 10:41:41.153 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py
+2023-07-27 10:48:16.652 [info] Configuration changed
+2023-07-27 10:48:18.386 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/api.py closed
+2023-07-27 10:48:18.387 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/api.py.git closed
+2023-07-27 10:48:18.429 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/translations/en.json
+2023-07-27 10:48:39.716 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/translations/en.json closed
+2023-07-27 10:48:39.971 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/translations/en.json
+2023-07-27 10:49:03.724 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/translations/en.json closed
+2023-07-27 10:49:03.725 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/translations/en.json closed
+2023-07-27 10:49:03.725 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/translations/en.json closed
+2023-07-27 10:49:03.748 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/translations/en.json closed
+2023-07-27 10:49:03.768 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py
+2023-07-27 10:49:06.026 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/translations/sv.json
+2023-07-27 10:49:07.793 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/translations/sv.json closed
+2023-07-27 10:49:08.003 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/translations/sv.json
+2023-07-27 10:49:16.529 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/translations/sv.json closed
+2023-07-27 10:49:16.530 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/translations/sv.json closed
+2023-07-27 10:49:16.530 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/translations/sv.json closed
+2023-07-27 10:49:16.546 [info] /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/translations/sv.json closed
+2023-07-27 10:49:16.561 [info] Active editor: file:///home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py

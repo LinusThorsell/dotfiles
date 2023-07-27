@@ -1,0 +1,6 @@
+2023/07/19-16:19:34.844 a4d5 Creating DB /home/linus/.config/chromium/Default/IndexedDB/https_a05600e0aa832c314efec0cdf362de7b.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2023/07/19-16:19:34.849 a4d5 Reusing MANIFEST /home/linus/.config/chromium/Default/IndexedDB/https_a05600e0aa832c314efec0cdf362de7b.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/19-16:19:37.323 a4d6 Level-0 table #5: started
+2023/07/19-16:19:37.324 a4d6 Level-0 table #5: 460 bytes OK
+2023/07/19-16:19:37.326 a4d6 Delete type=0 #3
+2023/07/19-16:19:37.326 a4d6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

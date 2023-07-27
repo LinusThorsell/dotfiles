@@ -1,0 +1,7 @@
+2023/07/13-08:12:58.656 17a73a Reusing MANIFEST /home/linus/.config/chromium/Default/IndexedDB/https_id.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/13-08:12:58.656 17a73a Recovering log #3
+2023/07/13-08:12:58.657 17a73a Reusing old log /home/linus/.config/chromium/Default/IndexedDB/https_id.atlassian.com_0.indexeddb.leveldb/000003.log 
+2023/07/13-08:13:02.530 17a73b Level-0 table #5: started
+2023/07/13-08:13:02.532 17a73b Level-0 table #5: 89319 bytes OK
+2023/07/13-08:13:02.534 17a73b Delete type=0 #3
+2023/07/13-08:13:02.534 17a73b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

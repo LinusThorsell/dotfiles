@@ -1,0 +1,6 @@
+2023/07/18-19:41:36.430 a4d5 Creating DB /home/linus/.config/chromium/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb since it was missing.
+2023/07/18-19:41:36.434 a4d5 Reusing MANIFEST /home/linus/.config/chromium/Default/IndexedDB/https_www.figma.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/18-19:41:46.341 a4d6 Level-0 table #5: started
+2023/07/18-19:41:46.343 a4d6 Level-0 table #5: 3064 bytes OK
+2023/07/18-19:41:46.345 a4d6 Delete type=0 #3
+2023/07/18-19:41:46.345 a4d6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

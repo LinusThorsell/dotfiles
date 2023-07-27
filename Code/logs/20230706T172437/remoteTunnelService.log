@@ -1,0 +1,6 @@
+2023-07-06 17:24:40.434 [info] Running tunnel CLI
+2023-07-06 17:24:40.434 [info] status Spawning: /nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/bin/code-tunnel tunnel status
+2023-07-06 17:24:40.473 [info] [2023-07-06 17:24:40] error no tunnel process is currently running
+
+2023-07-06 17:24:40.474 [info] status exit(2608306): + 1 
+2023-07-06 17:24:40.475 [info] No other tunnel running

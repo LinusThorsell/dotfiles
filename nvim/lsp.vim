@@ -28,11 +28,12 @@ lspconfig.util.default_config = vim.tbl_deep_extend(
 lspconfig.pyright.setup({})
 lspconfig.quick_lint_js.setup({})
 lspconfig.cssls.setup({})
-lspconfig.volar.setup({})
+--lspconfig.volar.setup({})
 --lspconfig.vuels.setup({})
 lspconfig.html.setup({})
 lspconfig.clangd.setup({})
 lspconfig.tsserver.setup({})
+lspconfig.rnix.setup({})
 
 require('luasnip.loaders.from_vscode').lazy_load()
 

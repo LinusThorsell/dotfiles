@@ -1,0 +1,149 @@
+16:33:52.620: Platform: Wayland
+16:33:52.620: CPU Name: AMD Ryzen 7 7730U with Radeon Graphics
+16:33:52.620: CPU Speed: 3445.688MHz
+16:33:52.621: Physical Cores: 8, Logical Cores: 16
+16:33:52.621: Physical Memory: 15401MB Total, 9532MB Free
+16:33:52.621: Kernel Version: Linux 6.1.35
+16:33:52.621: Distribution: NixOS "23.05"
+16:33:52.621: Session Type: wayland
+16:33:52.624: Qt Version: 6.5.1 (runtime), 6.5.1 (compiled)
+16:33:52.624: Portable mode: false
+16:33:52.665: OBS 29.0.2 (linux)
+16:33:52.665: ---------------------------------
+16:33:52.666: ---------------------------------
+16:33:52.666: audio settings reset:
+16:33:52.666: 	samples per sec: 48000
+16:33:52.666: 	speakers:        2
+16:33:52.666: 	max buffering:   960 milliseconds
+16:33:52.666: 	buffering type:  dynamically increasing
+16:33:52.685: ---------------------------------
+16:33:52.685: Initializing OpenGL...
+16:33:52.685: Using EGL/Wayland
+16:33:52.742: Initialized EGL 1.5
+16:33:52.753: Loading up OpenGL on adapter AMD AMD Radeon Graphics (renoir, LLVM 15.0.7, DRM 3.49, 6.1.35)
+16:33:52.754: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 23.0.3, shading language 4.60
+16:33:52.789: ---------------------------------
+16:33:52.790: video settings reset:
+16:33:52.790: 	base resolution:   1920x1080
+16:33:52.790: 	output resolution: 1920x1080
+16:33:52.790: 	downscale filter:  Bicubic
+16:33:52.790: 	fps:               60/1
+16:33:52.790: 	format:            NV12
+16:33:52.790: 	YUV mode:          Rec. 709/Partial
+16:33:52.790: NV12 texture support not available
+16:33:52.790: P010 texture support not available
+16:33:52.799: Audio monitoring device:
+16:33:52.799: 	name: Default
+16:33:52.799: 	id: default
+16:33:52.799: ---------------------------------
+16:33:52.853: No AJA devices found, skipping loading AJA UI plugin
+16:33:52.854: Failed to initialize module 'aja-output-ui.so'
+16:33:52.902: No AJA devices found, skipping loading AJA plugin
+16:33:52.902: Failed to initialize module 'aja.so'
+16:33:52.921: Failed to load 'en-US' text for module: 'decklink-captions.so'
+16:33:52.945: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+16:33:52.972: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+16:33:52.972: Failed to initialize module 'decklink.so'
+16:33:53.025: [Python] Python failure in obs_scripting_load_python:1752:
+16:33:53.025: [Python] Error importing obspython.py', unloading obs-python
+16:33:53.025: [Python] Failed to load python plugin
+16:33:53.212: [pipewire] Available captures:
+16:33:53.212: [pipewire]     - Desktop capture
+16:33:53.251: v4l2loopback not installed, virtual camera disabled
+16:33:53.274: [obs-browser]: Version 2.19.0
+16:33:53.274: [obs-browser]: CEF Version 112.0.5615.165 (runtime), 112.3.0+gb09c4ca+chromium-112.0.5615.165 (compiled)
+16:33:53.430: VAAPI: API version 1.18
+16:33:53.432: FFmpeg VAAPI H264 encoding supported
+16:33:53.557: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.1.0 | RPC Version: 1)
+16:33:53.557: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.5.1 | Qt version (run-time): 6.5.1
+16:33:53.557: [obs-websocket] [obs_module_load] Linked ASIO Version: 101201
+16:33:53.565: [obs-websocket] [obs_module_load] Module loaded.
+16:33:53.653: [vlc-video]: VLC 3.0.18 Vetinari found, VLC video source enabled
+16:33:53.653: ---------------------------------
+16:33:53.653:   Loaded Modules:
+16:33:53.653:     vlc-video.so
+16:33:53.653:     text-freetype2.so
+16:33:53.653:     rtmp-services.so
+16:33:53.653:     obs-x264.so
+16:33:53.653:     obs-websocket.so
+16:33:53.653:     obs-vst.so
+16:33:53.653:     obs-transitions.so
+16:33:53.653:     obs-outputs.so
+16:33:53.653:     obs-filters.so
+16:33:53.653:     obs-ffmpeg.so
+16:33:53.653:     obs-browser.so
+16:33:53.653:     linux-v4l2.so
+16:33:53.653:     linux-pulseaudio.so
+16:33:53.653:     linux-pipewire.so
+16:33:53.653:     linux-jack.so
+16:33:53.653:     linux-capture.so
+16:33:53.653:     linux-alsa.so
+16:33:53.653:     image-source.so
+16:33:53.653:     frontend-tools.so
+16:33:53.653:     decklink-output-ui.so
+16:33:53.653:     decklink-captions.so
+16:33:53.653: ---------------------------------
+16:33:53.653: ==== Startup complete ===============================================
+16:33:53.690: All scene data cleared
+16:33:53.690: ------------------------------------------------
+16:33:53.696: pulse-input: Server name: 'pulseaudio 16.1'
+16:33:53.696: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+16:33:53.696: pulse-input: Started recording from 'alsa_output.pci-0000_04_00.1.HiFi__hw_Generic_3__sink.monitor' (default)
+16:33:53.696: [Loaded global audio device]: 'Desktop Audio'
+16:33:53.696: pulse-input: Server name: 'pulseaudio 16.1'
+16:33:53.696: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+16:33:53.697: pulse-input: Started recording from 'alsa_input.pci-0000_04_00.6.HiFi__hw_Generic_1__source' (default)
+16:33:53.697: [Loaded global audio device]: 'Mic/Aux'
+16:33:53.697: Switched to scene 'Scene'
+16:33:53.697: ------------------------------------------------
+16:33:53.697: Loaded scenes:
+16:33:53.697: - scene 'Scene':
+16:33:53.697: ------------------------------------------------
+16:33:59.062: PipeWire initialized
+16:33:59.067: User added source 'Screen Capture (PipeWire)' (pipewire-desktop-capture-source) to scene 'Scene'
+16:33:59.087: [pipewire] Screencast session created
+16:34:01.690: [pipewire] Asking for desktop
+16:34:01.705: [pipewire] desktop selected, setting up screencast
+16:34:01.713: [pipewire] Server version: 0.3.71
+16:34:01.713: [pipewire] Library version: 0.3.71
+16:34:01.713: [pipewire] Header version: 0.3.71
+16:34:01.713: [pipewire] Created stream 0x282bbd0
+16:34:01.713: [pipewire] Stream 0x282bbd0 state: "connecting" (error: none)
+16:34:01.713: [pipewire] Playing stream 0x282bbd0
+16:34:01.714: [pipewire] Stream 0x282bbd0 state: "paused" (error: none)
+16:34:01.717: [pipewire] Negotiated format:
+16:34:01.717: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:34:01.717: [pipewire]     Modifier: 0
+16:34:01.717: [pipewire]     Size: 2560x1440
+16:34:01.717: [pipewire]     Framerate: 0/1
+16:34:01.718: [pipewire] Negotiated format:
+16:34:01.718: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+16:34:01.718: [pipewire]     Modifier: 144115206334822913
+16:34:01.718: [pipewire]     Size: 2560x1440
+16:34:01.719: [pipewire]     Framerate: 0/1
+16:34:01.727: [pipewire] Stream 0x282bbd0 state: "streaming" (error: none)
+16:35:09.885: ---------------------------------
+16:35:09.885: [x264 encoder: 'simple_video_recording'] preset: veryfast
+16:35:09.885: [x264 encoder: 'simple_video_recording'] profile: high
+16:35:09.888: [x264 encoder: 'simple_video_recording'] settings:
+16:35:09.888: 	rate_control: CRF
+16:35:09.888: 	bitrate:      0
+16:35:09.888: 	buffer size:  0
+16:35:09.888: 	crf:          23
+16:35:09.888: 	fps_num:      60
+16:35:09.888: 	fps_den:      1
+16:35:09.888: 	width:        1920
+16:35:09.888: 	height:       1080
+16:35:09.888: 	keyint:       250
+16:35:09.888: 
+16:35:09.905: ---------------------------------
+16:35:09.906: [FFmpeg aac encoder: 'simple_aac_recording'] bitrate: 192, channels: 2, channel_layout: stereo
+16:35:09.906: 
+16:35:09.909: ==== Recording Start ===============================================
+16:35:09.909: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/linus/2023-07-10 16-35-09.mkv'...
+16:35:09.914: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+16:35:32.382: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/linus/2023-07-10 16-35-09.mkv' stopped
+16:35:32.382: Output 'simple_file_output': stopping
+16:35:32.382: Output 'simple_file_output': Total frames output: 1309
+16:35:32.382: Output 'simple_file_output': Total drawn frames: 1349
+16:35:32.382: ==== Recording Stop ================================================

@@ -1,0 +1,66 @@
+2023-07-26 14:09:54.116 [info] [Info  - 2:09:54 PM] (3034463) Pylance language server 2023.7.30 (pyright 74d8f3c4) starting
+2023-07-26 14:09:54.118 [info] [Info  - 2:09:54 PM] (3034463) Server root directory: /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.30/dist
+2023-07-26 14:09:54.118 [info] [Info  - 2:09:54 PM] (3034463) Starting service instance "gymsystem"
+2023-07-26 14:09:54.177 [info] [Info  - 2:09:54 PM] (3034463) Setting pythonPath for service "gymsystem": "/run/current-system/sw/bin/python"
+2023-07-26 14:09:54.185 [info] [Warn  - 2:09:54 PM] (3034463) stubPath /backend/services/api/src is not a valid directory.
+2023-07-26 14:09:54.246 [info] [Info  - 2:09:54 PM] (3034463) Assuming Python version 3.10
+2023-07-26 14:09:55.055 [info] [Info  - 2:09:55 PM] (3034463) Found 622 source files
+2023-07-26 14:09:55.102 [info] [Info  - 2:09:55 PM] (3034463) Background analysis(1) root directory: /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.30/dist
+2023-07-26 14:09:55.103 [info] [Info  - 2:09:55 PM] (3034463) Background analysis(1) started
+2023-07-26 14:09:57.288 [info] [Info  - 2:09:57 PM] (3034463) Indexer background runner(2) root directory: /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.30/dist (index)
+2023-07-26 14:09:57.289 [info] [Info  - 2:09:57 PM] (3034463) Indexing(2) started
+2023-07-26 14:09:57.302 [info] [Info  - 2:09:57 PM] (3034463) Setting pythonPath for service "gymsystem": "/run/current-system/sw/bin/python"
+2023-07-26 14:09:57.303 [info] [Warn  - 2:09:57 PM] (3034463) stubPath /backend/services/api/src is not a valid directory.
+2023-07-26 14:09:57.371 [info] [Info  - 2:09:57 PM] (3034463) Assuming Python version 3.10
+2023-07-26 14:09:57.947 [info] [Info  - 2:09:57 PM] (3034463) Found 622 source files
+2023-07-26 14:09:57.966 [info] [Info  - 2:09:57 PM] (3034463) scanned(2) 12 files over 1 exec env
+2023-07-26 14:09:58.131 [info] [Info  - 2:09:58 PM] (3034463) scanned(2) 12 files over 1 exec env
+2023-07-26 14:09:58.315 [info] [Info  - 2:09:58 PM] (3034463) indexed(2) 1 files over 1 exec env
+2023-07-26 14:09:58.316 [info] [Info  - 2:09:58 PM] (3034463) Indexing finished(2).
+2023-07-26 14:10:09.220 [info] [Info  - 2:10:09 PM] (3034463) [BG(1)] Long operation: getSemanticTokens full at /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (14117ms)
+2023-07-26 14:10:19.511 [info] [Info  - 2:10:19 PM] (3034463) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (9752ms)
+2023-07-26 14:10:19.511 [info] [Info  - 2:10:19 PM] (3034463) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (9752ms)
+2023-07-26 14:10:25.137 [info] [Info  - 2:10:25 PM] (3034463) Found 622 source files
+2023-07-26 14:10:33.949 [info] [Info  - 2:10:33 PM] (3034463) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (8217ms)
+2023-07-26 14:10:33.949 [info] [Info  - 2:10:33 PM] (3034463) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (8653ms)
+2023-07-26 14:17:41.746 [info] [Info  - 2:17:41 PM] (3034463) Found 622 source files
+2023-07-26 14:17:52.252 [info] [Info  - 2:17:52 PM] (3034463) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (9461ms)
+2023-07-26 14:17:52.252 [info] [Info  - 2:17:52 PM] (3034463) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (10343ms)
+2023-07-26 14:30:41.009 [info] [Info  - 2:30:41 PM] (3034463) Found 631 source files
+2023-07-26 14:30:44.000 [info] [Info  - 2:30:44 PM] (3034463) Found 631 source files
+2023-07-26 14:30:44.000 [info] [Info  - 2:30:44 PM] (3034463) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (2136ms)
+2023-07-26 14:30:47.215 [info] [Info  - 2:30:47 PM] (3034463) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (2238ms)
+2023-07-26 14:30:47.215 [info] [Info  - 2:30:47 PM] (3034463) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (2944ms)
+2023-07-26 14:30:47.953 [info] [Info  - 2:30:47 PM] (3034463) Found 631 source files
+2023-07-26 14:31:02.176 [info] [Info  - 2:31:02 PM] (3034463) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (13299ms)
+2023-07-26 14:31:02.176 [info] [Info  - 2:31:02 PM] (3034463) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (14043ms)
+2023-07-26 14:31:12.473 [info] [Info  - 2:31:12 PM] (3034463) Found 630 source files
+2023-07-26 14:31:23.274 [info] [Info  - 2:31:23 PM] (3034463) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (10239ms)
+2023-07-26 14:31:23.277 [info] [Info  - 2:31:23 PM] (3034463) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (10704ms)
+2023-07-26 14:31:32.781 [info] [Info  - 2:31:32 PM] (3034463) Found 629 source files
+2023-07-26 14:31:41.931 [info] [Info  - 2:31:41 PM] (3034463) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (8669ms)
+2023-07-26 14:31:41.934 [info] [Info  - 2:31:41 PM] (3034463) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (9050ms)
+2023-07-26 14:32:21.071 [info] [Info  - 2:32:21 PM] (3034463) Found 630 source files
+2023-07-26 14:32:31.626 [info] [Info  - 2:32:31 PM] (3034463) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (9665ms)
+2023-07-26 14:32:31.626 [info] [Info  - 2:32:31 PM] (3034463) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (10447ms)
+2023-07-26 14:39:38.212 [info] [Info  - 2:39:38 PM] (3034463) Found 631 source files
+2023-07-26 14:39:49.436 [info] [Info  - 2:39:49 PM] (3034463) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (10318ms)
+2023-07-26 14:39:49.436 [info] [Info  - 2:39:49 PM] (3034463) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (11083ms)
+2023-07-26 14:40:15.020 [info] [Info  - 2:40:15 PM] (3034463) Found 630 source files
+2023-07-26 14:40:25.653 [info] [Info  - 2:40:25 PM] (3034463) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (9159ms)
+2023-07-26 14:40:25.653 [info] [Info  - 2:40:25 PM] (3034463) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (10539ms)
+2023-07-26 14:41:15.519 [info] [Info  - 2:41:15 PM] (3034463) Found 631 source files
+2023-07-26 14:41:26.503 [info] [Info  - 2:41:26 PM] (3034463) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (9793ms)
+2023-07-26 14:41:26.503 [info] [Info  - 2:41:26 PM] (3034463) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (10839ms)
+2023-07-26 16:19:27.196 [info] [Info  - 4:19:27 PM] (3034463) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (9890ms)
+2023-07-26 16:19:27.199 [info] [Info  - 4:19:27 PM] (3034463) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (11093ms)
+2023-07-26 16:36:13.594 [info] [Info  - 4:36:13 PM] (3034463) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (9937ms)
+2023-07-26 16:36:13.594 [info] [Info  - 4:36:13 PM] (3034463) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (10994ms)
+2023-07-26 16:56:44.694 [info] [Info  - 4:56:44 PM] (3034463) Found 631 source files
+2023-07-26 16:56:44.695 [info] [Info  - 4:56:44 PM] (3034463) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (2737ms)
+2023-07-26 16:56:44.695 [info] [Info  - 4:56:44 PM] (3034463) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (3304ms)
+2023-07-26 16:56:56.462 [info] [Info  - 4:56:56 PM] (3034463) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (10809ms)
+2023-07-26 16:56:56.462 [info] [Info  - 4:56:56 PM] (3034463) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (11629ms)
+2023-07-26 16:57:27.426 [info] [Info  - 4:57:27 PM] (3034463) Found 631 source files
+2023-07-26 16:57:37.869 [info] [Info  - 4:57:37 PM] (3034463) [BG(1)] Long operation: checking: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (9709ms)
+2023-07-26 16:57:37.869 [info] [Info  - 4:57:37 PM] (3034463) [BG(1)] Long operation: analyzing: /home/linus/Documents/Zoezi/gymsystem/backend/services/api/src/db.py (10370ms)

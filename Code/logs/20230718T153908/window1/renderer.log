@@ -1,0 +1,7 @@
+2023-07-18 15:39:09.202 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-07-18 15:39:09.902 [warning] [Vue.volar]: Cannot register 'typescript.tsdk'. This property is already registered.
+2023-07-18 15:39:12.420 [info] [perf] Render performance baseline is 32ms
+2023-07-18 15:52:57.045 [error] Cannot read properties of undefined (reading 'data'): TypeError: Cannot read properties of undefined (reading 'data')
+	at /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.20/dist/extension.bundle.js:1:62672
+	at _0x3b0595 (/home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.20/dist/extension.bundle.js:1:71932)
+	at async oe.provideCompletionItems (/nix/store/g3kir40abqgqqcdm18qygka784ng88b1-vscode-1.78.2/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:52890)

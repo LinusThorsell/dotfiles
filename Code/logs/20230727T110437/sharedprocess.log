@@ -1,0 +1,59 @@
+2023-07-27 11:04:45.552 [info] Getting Manifest... ms-python.vscode-pylance
+2023-07-27 11:04:45.554 [info] Getting Manifest... vue.volar
+2023-07-27 11:04:46.354 [info] Installing extension: vue.volar
+2023-07-27 11:04:46.355 [info] Installing extension: ms-python.vscode-pylance
+2023-07-27 11:04:48.670 [warning] Extension signature verification failed with error 'EACCES': vue.volar
+2023-07-27 11:04:48.739 [info] Extracted extension to /home/linus/.vscode/extensions/.60bf3b21-0d9d-4030-8193-4ec9e8db108f: vue.volar
+2023-07-27 11:04:48.743 [info] Renamed to /home/linus/.vscode/extensions/vue.volar-1.8.8
+2023-07-27 11:04:48.745 [info] Extracting extension completed. vue.volar
+2023-07-27 11:04:48.754 [info] Extension installed successfully: vue.volar
+2023-07-27 11:04:48.758 [info] Marked extension as uninstalled vue.volar-1.8.6
+2023-07-27 11:04:49.888 [info] Getting Manifest... ms-python.python
+2023-07-27 11:04:56.955 [warning] Extension signature verification failed with error 'EACCES': ms-python.vscode-pylance
+2023-07-27 11:04:59.515 [info] Extracted extension to /home/linus/.vscode/extensions/.76e6a4be-4e4d-48a4-afe4-316de586e81a: ms-python.vscode-pylance
+2023-07-27 11:04:59.524 [info] Renamed to /home/linus/.vscode/extensions/ms-python.vscode-pylance-2023.7.40
+2023-07-27 11:04:59.526 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-07-27 11:04:59.532 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-07-27 11:04:59.535 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.7.30
+2023-07-27 11:10:43.175 [error] [uncaught exception in sharedProcess]: A system error occurred (getaddrinfo ENOTFOUND mobile.events.data.microsoft.com): Error: getaddrinfo ENOTFOUND mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+2023-07-27 12:09:27.309 [error] [uncaught exception in sharedProcess]: A system error occurred (read ECONNRESET): Error: read ECONNRESET
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)
+2023-07-27 13:01:05.113 [warning] No ptyHost heartbeat after 6 seconds
+2023-07-27 13:30:06.273 [info] Getting Manifest... shadowndacorner.vscode-easymotion
+2023-07-27 13:30:06.280 [info] Installing extension: shadowndacorner.vscode-easymotion
+2023-07-27 13:30:08.620 [warning] Extension signature verification failed with error 'EACCES': shadowndacorner.vscode-easymotion
+2023-07-27 13:30:08.627 [info] Extracted extension to /home/linus/.vscode/extensions/.986888f1-6f9a-4803-a415-509af9f6e114: shadowndacorner.vscode-easymotion
+2023-07-27 13:30:08.629 [info] Renamed to /home/linus/.vscode/extensions/shadowndacorner.vscode-easymotion-0.0.8
+2023-07-27 13:30:08.630 [info] Extracting extension completed. shadowndacorner.vscode-easymotion
+2023-07-27 13:30:08.635 [info] Extension installed successfully: shadowndacorner.vscode-easymotion
+2023-07-27 13:40:10.234 [info] Getting Manifest... wmaurer.vscode-jumpy
+2023-07-27 13:40:10.237 [info] Installing extension: wmaurer.vscode-jumpy
+2023-07-27 13:40:11.518 [warning] Extension signature verification failed with error 'EACCES': wmaurer.vscode-jumpy
+2023-07-27 13:40:11.527 [info] Extracted extension to /home/linus/.vscode/extensions/.0650bca5-6e0a-4c8c-bcbd-8805e90fcd63: wmaurer.vscode-jumpy
+2023-07-27 13:40:11.529 [info] Renamed to /home/linus/.vscode/extensions/wmaurer.vscode-jumpy-0.3.1
+2023-07-27 13:40:11.530 [info] Extracting extension completed. wmaurer.vscode-jumpy
+2023-07-27 13:40:11.534 [info] Extension installed successfully: wmaurer.vscode-jumpy
+2023-07-27 13:52:27.602 [info] Uninstalling extension from the profile: wmaurer.vscode-jumpy@0.3.1 vscode-userdata:/home/linus/.vscode/extensions/extensions.json
+2023-07-27 13:52:27.617 [info] Marked extension as uninstalled wmaurer.vscode-jumpy-0.3.1
+2023-07-27 13:52:28.313 [info] Successfully uninstalled extension from the profile wmaurer.vscode-jumpy@0.3.1 vscode-userdata:/home/linus/.vscode/extensions/extensions.json
+2023-07-27 13:52:36.132 [info] Uninstalling extension from the profile: shadowndacorner.vscode-easymotion@0.0.8 vscode-userdata:/home/linus/.vscode/extensions/extensions.json
+2023-07-27 13:52:36.143 [info] Marked extension as uninstalled shadowndacorner.vscode-easymotion-0.0.8
+2023-07-27 13:52:36.488 [info] Successfully uninstalled extension from the profile shadowndacorner.vscode-easymotion@0.0.8 vscode-userdata:/home/linus/.vscode/extensions/extensions.json
+2023-07-27 13:59:38.368 [info] Getting Manifest... eamodio.gitlens
+2023-07-27 13:59:38.376 [info] Installing extension: eamodio.gitlens
+2023-07-27 13:59:41.456 [warning] Extension signature verification failed with error 'EACCES': eamodio.gitlens
+2023-07-27 13:59:41.665 [info] Extracted extension to /home/linus/.vscode/extensions/.1380e670-f76a-4041-8009-98cb14f1e965: eamodio.gitlens
+2023-07-27 13:59:41.675 [info] Renamed to /home/linus/.vscode/extensions/eamodio.gitlens-14.1.1
+2023-07-27 13:59:41.679 [info] Extracting extension completed. eamodio.gitlens
+2023-07-27 13:59:41.690 [info] Extension installed successfully: eamodio.gitlens
+2023-07-27 14:23:57.555 [info] Getting Manifest... alefragnani.bookmarks
+2023-07-27 14:23:57.560 [info] Installing extension: alefragnani.bookmarks
+2023-07-27 14:24:09.348 [warning] Extension signature verification failed with error 'EACCES': alefragnani.bookmarks
+2023-07-27 14:24:09.421 [info] Extracted extension to /home/linus/.vscode/extensions/.603c0f97-a85b-4a3f-9be1-48df7dc24339: alefragnani.bookmarks
+2023-07-27 14:24:09.424 [info] Renamed to /home/linus/.vscode/extensions/alefragnani.bookmarks-13.4.1
+2023-07-27 14:24:09.426 [info] Extracting extension completed. alefragnani.bookmarks
+2023-07-27 14:24:09.431 [info] Extension installed successfully: alefragnani.bookmarks
+2023-07-27 14:26:43.539 [info] Uninstalling extension from the profile: alefragnani.bookmarks@13.4.1 vscode-userdata:/home/linus/.vscode/extensions/extensions.json
+2023-07-27 14:26:43.560 [info] Marked extension as uninstalled alefragnani.bookmarks-13.4.1
+2023-07-27 14:26:44.018 [info] Successfully uninstalled extension from the profile alefragnani.bookmarks@13.4.1 vscode-userdata:/home/linus/.vscode/extensions/extensions.json

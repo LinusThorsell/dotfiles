@@ -1,0 +1,12 @@
+2023/07/27-09:34:42.236 edd0 Reusing MANIFEST /home/linus/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/27-09:34:42.237 edd0 Recovering log #58
+2023/07/27-09:34:42.243 edd0 Reusing old log /home/linus/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000058.log 
+2023/07/27-09:34:54.075 edb4 Level-0 table #63: started
+2023/07/27-09:34:54.090 edb4 Level-0 table #63: 2293661 bytes OK
+2023/07/27-09:34:54.093 edb4 Delete type=0 #58
+2023/07/27-09:35:05.128 edb4 Compacting 1@1 + 1@2 files
+2023/07/27-09:35:05.133 edb4 Generated table #64@1: 186 keys, 282130 bytes
+2023/07/27-09:35:05.133 edb4 Compacted 1@1 + 1@2 files => 282130 bytes
+2023/07/27-09:35:05.135 edb4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/07/27-09:35:05.135 edb4 Delete type=2 #63
+2023/07/27-09:35:05.135 edb4 Delete type=2 #60
